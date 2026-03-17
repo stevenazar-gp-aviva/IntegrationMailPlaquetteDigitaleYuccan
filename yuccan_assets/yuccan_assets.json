@@ -1,0 +1,992 @@
+[
+  {
+    "id": 29452,
+    "magasin": "Cuisines AvivA Agen",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-agen?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWQY6DMAxFjbJgmRuUi1RwLRZIQeoi16LiInCDLLNAeP5Pqs6M1FUTIrXAi+TE9ncckQ/DqaqMIlb1qaHFVyxi+OxsHDaY7jtpF5FC5s5O3NGEKA3WWDVcw2y8i+iMn6/CBKZV3HkZY6z80mmc5F/8vmTMpfXrHuLUY/Kd35osD3NaMfDl7/iOOT071XXXdu7hzP1m6zOZmi1Q49HpFtqloR8FrD0guxEaxxovh6ozcc/tV+N8KWTmifRR4w+KZjjlAvaStlI5iBWCVsQcTOMB8/CD9pnfymxM+16zJjkRypibB4UfWX82ms3WZ+OErfuFZ/YpiNUNTpUwcYiLKvU3bFaXVDOVGTS+WU9NTjyzdQ9lzKFdyXjnJBOaY1WZjYYlD022D+TX5/iVMBlQ5zDPOmcCkv4qM7dw43wdoHGjoZixb+3KOk+iidVZKsX0MBDmbNgbS1jqW0l6+EPxnFaqM/Zf6AXtgAdhXreI8Q7iD95B+u6dywuYriwhHLZxSHe9YrZ0+Wzyx02kPkv3nBRyNMgxa7KApVxGA/3NqRHcbH32YfwAdZ8415PZFaYAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Albertville",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-albertville?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABs0lEQVRIibWWMY6EMAxFP6JImRswFxnBtSiQiLQF12LFReAGKV2geL/DaLUrTTUJFKPMK7D4/v4O8OaZVRVu0+j0235UpYiNwMMva6NA/4BbgUI2pwfQHmQNa7DYPczrlrwGQJcqjB/TRJnTbcy0kmH3MuGffh8y66VftiPK1LMJv/2tyS7DnSzX0jh/TfgZmzU9VJ6AC70dOn8DC81Oyam76h4dzSll7Bw4Mytfj56f0CarUZlhYt3QJshEj89nE8vY/MX363ao2kGGhPrMnQ39yIPQOdQK/FPE2EKAHtezyX7xqM7Gyeo+bS6zv02rEoaWMQr6T1nMS7v7Gxi/IUcImCXUqsvCFTHOefafibN2V42qjHOJONLakjNbj1jGnK6MPfrPBbBQ1qU2Y1d3H3DllS5ZqxI2EvpASdzZw6vanNdnK2zkVSaGClqNhcyiP+cp59xq2O6pzPIoBpaTdn0diti1t+i/l9nT1cuqzPYvZh5l/laGrS20ImZ3ENu1FlK5l3IPuzzJfSZDvuuVsoU+z9m0nB1Qn9k9JzyZ19OwY7w8WcByL6/7gc05Ol+fvXl+AItMOabek0M6AAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28680,
+    "magasin": "Cuisines AvivA Albi",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-albi?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWQaqDMBCGR7LIcm5QLyJ6LRdCAl14rZRexN4gyyzEef8k7eM96MrEgEW/gnEm30xC9GU4EaGZiEUeEi2eUhXDY89p2vDqsScbiCqZO3pyexcTdZjjKfEaxmkgEo9rbcIIrxZyx2VMc7WGXtJC//J3kula8vp8xbSM+PN3fVuyMszBZBDL33GOOTl6kedLrB8RzHDjK1gg/XQ4Llu0ocuxnWd2pz7OxfF3QM3Z7ALmVMcXOK6y1zF3F4mzOn5XaaaD2jMka1O1Rc1BrohTHYPjegliyb4wtWfmILQQpNxlvzVXNczldJjiHyez8QUMKr57tn5AuHGqYhZzRFL/lmljCVozrZnzI7EfPj1bXrGSYQll3UvxyDsvrZnvNlYnLWSXteSvgs3YEqPDeloNCAugdd6aLSjJlFvIBMeNxEqGVi0e/mmdZ2lSc5ZLcQ1aUKh7b3RvrGF53/KqHn7QVI5SM02Z7r80D9gOzEMD+uznp5meQWTXM8jYf9byCqbTWaQdPTuf9WrZWvzDzX4jas/0nOOLk5vaE+tYXkvtpzjroc7pxu3Zl/ED/OM7LsU+S/UAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28739,
+    "magasin": "Cuisines AvivA Ambérieu-en-Bugey",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-amberieu-en-bugey?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABwUlEQVRIibWWQY6DMAxFP2KRpW8AF6ngWiyQgjSLXouKi2RukGUWCM93aEczUldNQKoU3oLU9ve3gTePV1W4LUD1odHxLRWxCejlvjY8Dj3cChQyf/RA+x0TGt6xabyGiW6qbgH0XoUxmD4mf1zGLFdpDJJm/Mvfh8xqKfeNeZkHFuG3vjXZKbid9W0pnL8i/Ix5PXpNt050Gc5DfTahCWIpZwQhuizOEuaXrPGeMQwMoT3s3soMrQZZqHGYxpm0WMb8Tpl40/gXL0rjgfrMLWOwO6lxZV+ukFTEgFEjf6rUjInF8lKbtY+A6cay+qzvM3+fM8dPy33vo6P+JLVB6jN6CWh7THk+rJ2kIuaUJTz1R0PR1XqmNpsobf79l2eribOEUS82t/jK5tFnriqzaQaiX6lJ+hUDyvkrYX6lVbM3dWdAqkeuZWU2N7SpnfmaGRCdIBYyzi32SyfW53bHc57XZLkVmSd6LPt+aW02lrA8t0wrjCNw1maPrcxs/tL/vimVhyrvfe5NHzPbQfhp5D63vOAatphN2Q6Sxld9ixjHotiuR5Pq5AKW90nTJL0E06nJAnbuNNYzuc/RSX325vkB7OpSTGoBuZkAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28732,
+    "magasin": "Cuisines Aviva Angers",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-angers?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqElEQVRIibWWTYqEMBCFS7JwmRu0F2n0Wi4EhVl4LRsvojfIMgvxzavKTDMDvTIx0D9+gjGvXr1E5MMYAUgv4oEXQs2rmMV42fjYbXx020i9iGSy8WxkPKoQpeIcK8I9zMenCCZ+5iJM+GjIeN7GVKt5aRAH+affRaa19PO6hzi0vPmub0mWhju9OK7l77jGRpwNsO6op5aLeT78Deygv6N5HFuol0rXlsOmilLQ45zjZ0HFGduHc6rHB3pczZ7NVA6R+ktN051Sno18fWqvHgf7clHhcphIh9BLw1pW5hfTpTij7mvyJGubtLrOem2a6HaA/vPRbb48o0RbakVmCbV6qFY5bOjgp27jX35h0Z4pzhzbh1ZEymzsIZMx9oDDMpv+S7oUZr1G9eQQrL6zaZXFNKrNf4c2KLTPizPVyiKERVDlQiYTsx39xz7XOWzvKcusFfUnOva9ipbH0r4FWu/oNu61lrGFme6/6QziXkiFzmN6Bpk0T4/2rdUdTI8e+KI5Y2dnvWzG+Ldsmo+HSHlm50mnr8+w7d/6XWW/ZxqkPpeHL88+jG/+5Dr+NdTt1wAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28753,
+    "magasin": "Cuisines AvivA Annecy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-annecy?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrUlEQVRIibWWMa6DMBBEB1FQ+gZwEQTXcoFkSym4Fl9chNyA0gVi/+wSRf9LqWJjKQReJBzPzo4NfBhBROABJ/Ije8OnlMX42Lk0bnz10KFZgEwWzg7hqPaEinOsst/DXOoBifzMRRj4akE4b2Oq1bx0kib80+9LprV08/rc0zTwx3d9S7Jr1KdDzbX8Hd+xIGcnsj6liQMX07euPGselDyZx2Xbm6XiQw5DUN3pcc7xWlBx5sFb8/hEj+tNHgsPtrfvVQyb7MQdjNdAj2uMUCu4lMU829sJX9/EyvxiupRl4Rg3epySB/O3aZXBmsh2DPSf0H8u1Zsrz3y9MEIWVfwEtWpVqwyGmrUE15L0Iov2TGnmVW/fa/toZstzz2Ujs+mwzKb/Ll2Ks2pjlnAtWt/50i+HMUYpOf13DBoo1uflGcuqnuSCWAnZs1nnNE+Ffa5zIBVn1or6RQYXa90bc5jtW0n9N42bWIMWZ7r/XhlLs0u8tMphegaJmqfH8NbqFsbpxDa10c56uSyxXSyb5qMFyjM756z697lB+rd+3zKrZaw1T7XP0bry7MP4BQNQOAU6ZGBrAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28724,
+    "magasin": "Cuisines AvivA Annemasse",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-annemasse?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABs0lEQVRIibWWMa6EMAxEB1FQ5gZwkRVciwIpSFtwLVZcJHuDlClQ/MeBv/pf2ooEqvAaK+PxxMCXz4oImi2aRl7iG/6FLDYCnVnWToC+Q7MCmczGDqijASrW2MTfw4xsb5EZkKUI08tQ3XgbU63C4EyY8E+/i0x7aZbt7cPUswmf/pZkh+H2SkJN4/w14TVmJXYSHtR97vXQmvIMdoVRyWlv55u10ntkMPukFOrxZu5xGrE0a54RPh0nepyi+Tw22rWDVY8/WSgMEeUZJsCoRXgdCramnwymVqHtnJG5Sn4xKM+eLCWUKNjkb9Uqj71YY2cT6D8TamduYHvlkicDs4RatYdW1xlrMELYRjBQZG3PukXZPDiZ68iY0syWt89j/Do5M5uFki6lmd17+PH0JAf00O86G2tm06yZjZ7GEZ3z8kycJE9ioMdr8blM31rNU8651kAoztIozlpOw1YPeSy9W6L+m2icZUsZW5jp+8v8ixzJFz1T/+5Nl5nuIHxrJc35qdUdjCsOAmeJmf2pm8NSnu66H+xtehcKs7TnPDRaB6cO9Xks9ZL7gTnmHK0pz758PzI5V4DzAwARAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 26683,
+    "magasin": "Cuisines AvivA Aubagne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-aubagne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqklEQVRIibWWMa6DMBBEB1G49A3gIgiuRRHJln7BtYi4iHMDly4Q+3dMEv0vpYoNlXnN2rOzYwMfPiciMJuIkbtEo3+piM1Ab5e11+XYw6xAIXNHD7SHBRqtsUm8hlnZHmI8IEsVxsPY5I7LGLVKUwBu+Kffl4y9tMv2iOk2ahPe/a3JTsPtTUytGuevCb9jTg71ygAYP3LR2fpsZiF6HK2EaNbm9PjXjFOiy17PMOJpxOrsZ4X1L49TtDI2awujU4/LD4dzOlCfUSLrn4mkB1KzFzHjuX3lsjfZL9SlMgOmIH7Qtrrsb2pVxNq7ZP+J+s+mNtgLGJqQIwSaJapVR/0KWM6/BPXfbVJx1jwzlZlqH+L8zmx5xDIG5h8zW7wWeulSl83uHkQYrezv8tSqhK19BCXxI6zIkWtUZip5nAfNWEzCqYrFTJdDDpWeNXj3VGZ5FEU9ScE0uHg3lrB8b7GN4iea/bCoznj/wm26facD6vOFVsQ4M76l/8a3VlcwSpbfIGnKb71ipv7jW88uewfUZ/k9uWdPBsynJwvY2Uvm6c45R2frsw/fL41PNKWZNqPCAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28731,
+    "magasin": "Cuisines AvivA Aubenas",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-aubenas?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqUlEQVRIibWWPa6DMBCEB7lw6RskF4ngWhRIWHoF1yLiIuQGLl0g9s0uyfuRUsXGlfka49nZ8QJv1igi8IuIl7skz69cxHrgGqb5ym17hZ+BQjbuV8DtAWh4xiLpHBZkeYiPgExVmF4m5HE/jalWuVuBAf/0+5BpLcO0PFIeWhbhp7412WG4rUnZ0Th/TfgZG2WnV26Aj61uLqE+w9Ca5AIna/Jzo/coYW4/PA60eBqxNuvRrRJfHlfRyhiGTszj8qXN2e04gdHaIT8TiVrZRwEbWUJG0hpka8wvWt/KrKfkId5Y1tH8fej3OfPRJGeO8LCQ3RpOYBv7vneSVDRqdaFWJUxtEiLUfx3Fma1nKjPeY+XvvzJbHqmMjbGzbBLRgw5darPezUgMWoiuybQqYszs1KskkcYROfq8MtPnhZ5kZnfUXwtdyOTwn2ef6xn2ntdl1oqRx+Vxfm6KmL1bWcs4MAinZQ+ozlR7zk38fXenZ+xBK2I6g0Sn/mt/tTqBiY4KjoXOnc16pWyyPNX5YLsA9ZnNOepJvIKriFktRfN004LiEuqzN+sbpwovaIBQYYkAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28730,
+    "magasin": "Cuisines AvivA Audincourt",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-audincourt?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWQYrrMBBEK3ihpW4QXyTE19IiIMMsfC0PuYhzAy21CKpfLWfCfJiVpQhiwjOko+qqloA/ViSJgFNy/KYeZG5iARh9njafcR3hVqCRxTIiPiF2Uo0702eYzxeAsz5LFwZ3L1K3fIyZVss6Ejf8p99BZr30y/2R8u2ql+/+9mT7GorHIOP8XsdYZBnJ+4OcryPz5ez7s2CF7JEHbsmtp93jhxnit6TYPf7aUHemOG7k85Sqx6O+tLH4RaYgj7svmSZPBR9h225tOUdaWUBbWIircgn9vPZhfbBedmYWxxSGAqtrL1IbM//5H//5PGy+P3NcYeVB6g+49axNtTBIDk/KfzeZkKtlpjdzKodweXnS8ZHaWJ1/8z6z1dCqS28W5+s+qu1Y5FK1amHhNplNRjq9lECW8+5MI0Tzr5j28vjA1Mow6oiV/5Rzq/E6e3qyGsXZZmxU7ufBzsYWtp9b8p97TjZUikd3ZvtAHa2Dhvf81uowszsIdaepObde5s8wK2eya2bXu14rsztIrbE8z0B/ZrmsnsS0Ibz1O8p+7jTcc46z78/+WP8AuvNjYDTLcTYAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28730,
+    "magasin": "Cuisines AvivA Avignon",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-avignon?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABq0lEQVRIibWWMY6DMBBFf0Th0jeAi0RwLQokI6XgWiAuQm7g0kXE7J8hiXalrbBxZR6F4c/z2MA/I4gI3CriZJHo+JSyWA80fpobTtsGbgYyWdgboNo9cOMaq8RrmJf1KW4EZCrC9Gd8CvtlTLNK3QYM+JPfSaa19NP6jGloWYRvfUuyQ7jXLaaK4vyW8BwLstOVO+DGVie1L8/6oYVqIqhki26+qeMZLIydiDrONfAWsTRzj2Xzo04HOq6hZbIXGlHH5aGbs9txCTuGthFmRdmzWHjsTQyy+cT/0HeaVWHmRL/8zrJW5rdllcUW8eqf0D+fqs2XZ+ExIwa2ELCXMKvasjrPesYhYv51m5f52DNlmWUV1k/PlmfMY4H+cavQv5EivnMpzNizYa1VdExHVjmMbTRCI+E+9yL70ZvKMiur9tiho+MVC53HoLloP+U+1zXeZ09JZltx5HKU5pjkMTu31D+hfzxrrccWZvYffcXPrxZyO9CymN5BRvOv/WZ1BdPI9JE92+56uUzE/OP94FUD5ZndJw8nN4b2cfIss1paP9UDLKH25dk/4wcO2EFQUDxzXgAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28709,
+    "magasin": "Cuisines AvivA BASSE GOULAINE",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-basse-goulaine?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWQY6DMAxFjbLI0jeAi1RwLRZIROqCa6XiIukNsswCxfOddmZUqSsSsoDykHD9822H6MtaRYRm6qLIQ6LFU6piM9HAadKf40DWE1WyNQ+0Hl1M1CHGLvEaxuk2RHFEsjVhZPcMdfNlTLXa/CBy0Id+J5nuJW/7M6ZlxMu//W3JXss8JeHthwvPsVUycthFrBsHSbeeL2B3T1E9jrghWt9pbhVsXtTfU2BaRk0oI0ZzRl2I66HbCo+r2SuZ8UOcbz3ZO0yTJhixObOHXtTaRlCXnjhVMY0Bj3fweFf8wnQFI3HwJJni77dWFQxtdDaZ1H+cTOD2bL0/sL8engSHVj2nOuYgySaB5YAJxZeaac0QFz1bJdeeLc9Yx7DUf8TWEfxXdGnNZppQ8ujZ2q9kK1pVsVfbG3AZiUVKnbdmyxTw9zPCTeBGYiXD92nFDLCC4kGM9+xpyUop6k0Ede+MzsYaVuaW9lPkETBrM1NzVvKw6CMJBSruX6uzTM8gDv4TrXPV5SqmEukZBIe02IAl+K/E2I6eL2DlPGnUJlNAN/zV7ywreynqv1Ln1HN79mX9ALeLRSj9k0+gAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28764,
+    "magasin": "Cuisines AvivA Bastia",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bastia?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWQcqDMBCFR7JwmRvoRYpey4UQoQuvZfEi8QZZZiHO/17sLxS6amKgNX6CcV7ezETky3CqKoOIVX1pqHEXsxhuWxt7j1d3rdSLSCZzRytur0KUCmusGu5hNj5EdMJvLsIEr1Zxx22MWs1Lq7rLh34/Mu6lndctxLHDw2t/S7JzmMPy6YcLf2NOD8SwblpPXavx0dgb2I5txafb6NSHeqkYWwYT84IU9PjYvQMqzpCJPlwe5ySTPQ/KwQlME/tDyjMxS7K2ilHk5QLRsthgkDODtFrvVfILdCnN3N5JGCi5Sf6mVjmMFRRxbKrwn43G2/IMy3k7nbkk0KpJ+mUw1qah95jiTxfmTHFmXkgf6B5H1mzdQi5j3zprNvz3r0tR5vbe62TOtqhz0iqHsWYrazbzHA2XeV6cob1YXTntlVGFTDb2uBj4D3nONdh7CrOUivRkdMh7ipbHUt+K9N+ITZhTQKUZtZeaNZbFezq1ymE8g6CXg3eXVnewiOX0iTNI7NNZL5cpzyCsTfPeiJRnPOdMhp+PBjlc+v3K0l5O9F/Kc2lsefZl/AEfGE0jydz/OwAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28714,
+    "magasin": "Cuisines AvivA Bayeux",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bayeux?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWQcqDMBCFR7LIMjfQixS9lgshgguvZfEieoMssxDnfy9/KxS6aqLQGj8hiW/ezETky+VVVXoRp/rUYPEUsxgeGxe7DVO3jdhFJJP5sxF/VCFKhTVWDfcwFx8iOuI3F2GCqVX8eRujVvPSqB7yod+PjLF087qHOLR4ecW3JPu/zOn49sOFvzGvJ75h3dWObaPxUbvyzDKs2LqLXrdglwoPOUwMdEkeH9rXBxVnduy2cHmcgzwmZmmkh8ftBNPE7pTyzI/VRmurnRR5uUC0LCbYvlNML0OV/EKtCjPkEeJLyU3yN7XKYRb+C73ZVeE/F83mbmATS8hCxU+BVjW0ymHJf/AMhvjTpX57siQbqs3NB9OHNVv3kMdY//RVszFIupRmftKNNTuk+M5JqxzGHhC4DnojGy7zvDij5MmT0ikjETIZ8lxH+g95zjXYewqzlIq8gYkbDXtjDkt9SxXfMnQsKqeT4ox+Ecsa65/IzZd+Gex9BrFHe2l1B+PRQ1kEYpfOermM6ZJq03zUIuUZzzmj4fbRIPtLv1/ZfyxX1lPmudSuPPty/QHpBS8Qa9xE6AAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28691,
+    "magasin": "Cuisines AvivA Bayonne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bayonne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWPa6DMBCEB7lw6RvARSK4FgWSkV7BtYi4CLmBSxeIfbOGRIqUChtX+KNYeXb2B/hxvIjALiJWnhIsbzGL9UDjprnhZ9vAzkAm83sDmN0BFWMsEu5hTpaX2BGQqQjTx7jo99uYahW7FXbDl34XmebSTcsrxKFlEj75LckOw21ViPz7ZcJrzMtOrzwAO7b6Ubsb2MZA6nH+XYOdK31bBuuHJHkjGFqcRizNgBYyvj2uomUySp48Ln9anN2O8syP6m/V609Yl7Neclhvnowhq4tDlfyiWhVm0HIcH0yrSf4+tLrO/FiJU/8J/eeiWV151g/dGvyi7XoHtapVqwxG7ZvQo2H/61Ync6qZwqw3DOeXd8+WV8hlc6O9SYTB5NSlNGOKU8sTPdOhXw5jGxX1H3MJGvGo/dKM+e0f7LFDR48bCZkMp/8s61xjpNlTlqVSFHpShHU/Gp2NOSzNrcg0Cv3HWbs7FGc6f5Mxo3+SGx1oWUx3kGjUf+1Hq1sYBUs7SOzSrpfNWOK667lpq4HyTPcc0Z0BXHb605PX2bHTcKjLpnWO2pVnP84/HDFCdXSZ/OkAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28746,
+    "magasin": "Cuisines AvivA Belfort",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-belfort?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrUlEQVRIibWWMa6DMBBEB1G49A3CRb7gWhRIIKXgWkRchNzApQvE/hknP1+RUsXG1fIoVp6dXS/w4YxmBreaObtZcPyKWawHGj8vDcO2gVuATDYeDVAfHqiYY7VwDvO23s1NgM1FmC7j43icxqRV7Da4HW/6fclUSz+v9xCHlkV41bckexhur0Lk3zcTfsdGO+iVH8BNrYKLL88w3jbZxPiXwVLpHhlstEWSN7xDi6cRSzO3s7Yvj0u0PMbThJEet6uasztQnrm92vykgFahVjR7HpvQ2Gwbwyr5RboUZj0lD0xu8iRrK61yWBqjoP+M/vOx3vwJ7HqA84qcs4RaXaRVBqPH+U1t3NRt3pZnz5RltXSXJwfNbLuHPOZou9DX9J+K+qdLWdYPQGod05mTVlmsPtLM9qwli2Bq0OIM3Ua/cMaiMykXMtnI9rb9IZBypPe8LEutGJku1uz7SUEWe7xbKU+38a19zNiyTO+vZiwizW7Ma5lMO0hM/mv/tTqBmVYF5ubMTrteLpP/tOv5eb8A5Vnac+TJgY9a//Tp9yzVctI83dXnuPjy7MP5BWhUMrBTsG4RAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 29437,
+    "magasin": "Cuisines AvivA Bordeaux Mérignac",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bordeaux-merignac?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWO46EMBBEGzlw6BvARVZwLQIkW9qAazHiIp4bOHSAqK02mpVGmmhsiMwjaFxd/RH58HgAYvcowAPJ8i1XsVlkcOsmTmQcxG4ilcyfg4h5piwdY+xI9zAHHm0QwdqE6WUk+/M2plrl6XQ45E2/L5nm0q07dVlGJuE/vy3ZZbijS5lf30z4HfM4B+Sf3tkwXof2bF66WGzCG/CwderxGmZOlXwAwsgrmFNjNGasxIhgntSJHlfR6thstkG8evyXgWgcuYUJgjC/BvzAJpCrmNB2CBNgj674hbq0Zhbb5cnidjaUVMdm/2DNHCWXLFATXXtmjykmmqb0EmrVU6tKhuK/LFN02PorRlPm1dp+fyIv2rPxTHXMMo/qP7BnM9ClS2PmfxHZaK9+hbVoVcPmRQb+fuRxFAeU2m/NmFr6RcuHFxKDVMl0bvmjF61zjfGa5w1ZKcUyEj3rPhidjTWszC3dDfIyRc7a00lzpvNXdxBa5cHaNK+96WumO0hgAnRuFV3kJqZtipw9+5XfKrYill2PximztjXTPYc7Do8TC+ryZAUruQx8Ralz6V179uH5A6e6O4yPAlfdAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28876,
+    "magasin": "Cuisines AvivA Bordeaux Sainte Eulalie",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bordeaux-sainte-eulalie?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtElEQVRIibWWMcqEMBCFZ0mRMjfQi4i5loUQYQuvlcWLxBukTCHO/2ZcfljYahOt4ick+ObNmxB9eQIzk91OsvzibPFWqthE1Ls1PrAce7KRqJKFsycyO9gDZ2yc72GON2a7EPHahMnPUAnnbUy0Kn5ne9CHfj8yqaVbtz2XeUQR/uvbkl2GO1BffP0w4W8s8Nlz8dh7GbEYOncDW0aCTfYMmrJVc1axZ+xRQmiPjzDiKWc0ZpM5yS0G2ovHIVquY9i6zyH22cphxZ/UnoXFpzxhWQyjLyO5Usee6JkAyRmeEbOoVm2ZZdFKlkH9rVpVsAma8DJAFwjkikmuPcNxSeyoWQKtOmhVwyT1detCPjmOnerSmD0jMcPjNEtm854rGeRACPaS2fCf6tKaTfMjZRo6krziVbWqYuQZftHZSI5Z+7w1k/qWQdzt4XHDuZIZ9Lj8AqPP5QyZPY2ZtmJRraIEl8zGGnbNLYmQ2ScEq2ZsYybzl2iA9uaFWWNkoFUxuYOs8d3nb63uYFpfDAgZkpnqGUfJUrkfHJ27gck958prn+AePbeCXbU8OmLtc+pce/bl+QOlC0vymfqV0AAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 29427,
+    "magasin": "Cuisines AvivA Bourg-en-Bresse",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bourg-en-bresse?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWMa6DMBBEF7lw6RuEi6BwLQokW0rBtYxyEbiBSwrk/TNG+VKkVLFDgdCjWO14ZtciHx6vqmKfmqyufKkeVWwS6d0Se3zee7FRpJL53IuYHaxDDRT7DXP6VLVBRJcmDM106fD5Z4xaHSM0P+VNvy8Zz9Itzz0d8x2H8H++LdlluLNL/Ptmwu+Y1wyvDL1quPPj5tqzScYNfUB31S3Z2BWPVzDPqMRSAy2YzBqt2Yy6wexJ6PEiWhUTxDF5eFwfDOeYpT2zGkUDPW6UDYk7qpjICJugF+acJZ00Z/axbiIDypnib2pVxcKoLsB2Fv7Dj821ZzjRTYPBCDFZoNUNDdUwTn3xsLY9IY5GZqY5K1rRkzNntu6pjk0YSSUqMA38V3RpzfwDnlwiZzY6Wi79Ktj08h/OUpxqvmZTWzZ3W5qGl9lx0JXMRKyXUxwC2rMGd09jVqIYDGds5Ad3Yw279la5g4wbdm120pxx/6KZjEiuykBpJeMd5IDHS86py49YKFsXeuHykBqwRRkV3g/OsmtbM95zwoAcQXuIVupWsHKWx8DBypzLzbVnH54//HUaJ7cZER8AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28752,
+    "magasin": "Cuisines AvivA Bourges",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bourges?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABp0lEQVRIibWWMY6DMBBFP6Jw6RvARSK4FgUSSFtwLSIu4tzAJQVi9n8TZRUp1dqhch7FhO83YwMfnsnM4DYzZ3eLjr/2LDYArV/WlsuuhVuBTDadLVCfHqhYY7P4HeZte5ibAVuKMH2M36fza0xZ7X2AO/CW3z+Z9tIv2yPuY8dNeO1vSXYJd1Rx59s3Cf/HJjvpyg1wc6dF48szjB2ejluIbq30HRlsqNUzdJw18BSxOBv7EF+OK7RMxsjjRMftR83ZnyjPOEKCT4rwg5gVZc9ig7Sj41xWyZeUS2GGDhE3bmud/E5ZZTD9fS//bFaxOvjyjNkH1dQeg1k1yiqDOfZMHED/DoZjq3qmODuqQF/o5KiZbY+Yyagd+5L+zSx05VKaDRM15JEAzStbnvllMZ4zxkjY51ycV42yjPMqOs1Y9CZ7Yiab7pd/Ckg10nlelqVWnFluT6FpkcWucyvdQfrAs/b0KM50/mpUY6/vdEYTPI/pDrLX8q/7y+obTE6yNmd2uutlM7X4ofvB0QDlme45djkZdFLGPJb20g7O00N9jsaXZx+eX8ajQ9CRt6GhAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28723,
+    "magasin": "Cuisines AvivA Bourgoin-Jallieu",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bourgoin-jallieu?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqUlEQVRIibWWMY7DIBBFB7mg5AbhIlF8LReWsJTC18Lai9g3oKRAzP4ZtCtFShUIFX5IHvnP/4OJ3qzAzLSQScwHJ4un3MUWIu/yfGH78GQjUScL1VMoBsygxg+n7zCX7zdnNyLehzDSV4f6NSZa7dEzF3rR70MmvXT7z5Xy+sDhf39Hsrami+X0xYWfscAV3wA57PbwLE0Yz5bVnC6rx/lMNopxeph9RvE4M2rIB1XUGM7KfDr+8zjMnnqZYXjcJynGea40nhG0grUr5YnRgEgQrpOJ5Ty8YtQvjoYz+zzOtMCTUlcES30sbOTBmv9cnk43ntEqYyqalKdK0OqmWn3OwvOQSIpnxDhRczSaFYP4FEi+yszmK/WxZYot3pjZ2Kguo1koYnSd2ejv3rTqYMukW6M5d8xV6w5m6C8ORKIZHodxOpmMaotc6pBCDb3PxzKNYpuxyP02yd3Yw9q9Jf7bZh0qjoYzuX+lyYjkwdzqdjH5B9nu8IzkXHSh7zAW7fGImd3628uQG9L/g6J37Wim/zlyL9B8iuNTH9NeZni85Zxubjx7s34Bt4hWU+ELVBIAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28727,
+    "magasin": "Cuisines AvivA Brest",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-brest?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWMa6DMBBEB1G49A3gIhFciwLJln7BtYi4iLmBSxeI/bMm+V+RUsUOlfOQsmJ2ZtfAm8eJCMwmYuQu0fBXKmIT0Ntl7XkcepgVKGTu7IH2tEDDGpvE7zAr2y7GA7JUYfoxNrnza0y1SmOAOfCi34dMe2mXbY9pHtiEv/7WZJfhjiYmvn0x4WfMyUmv3Ki7H/TQ2fqM2iN7HK2EaNZGUhmj7UQ9LseAhxFrM+cHWK/HmR5X0crYRMmjU4//aDhHflV1BrciXh7nS3rSpiLm/MgaEqA51//PutRl0zyw7o2ebLO/s1YFjDYRq/4z9J9NbbD12dSutHernjxBrTpqVcKQ4802mmMMVlbNTG1mfBPgtufMlj0WMp1Nqd1FPOi/rEttRieGPFq1CQyoalXCJpWd/uORARXJ2a/OmCNGXtI8ihaPhQzj5T+RtdcaeffUZTmKzFDkLNHBpbuxhOW9pW00fgzctefVy6pM9+81qtu75EClMva8g+jeevbyK0yvCsw+Z/Z/3QK20H+5xnJ0QH2W75N6ZwAvO9PDk5+zq5d5nmrO0dn67M3zC/uONJDLCuVJAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28733,
+    "magasin": "Cuisines AvivA Brie Comte Robert",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-brie-comte-robert?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWMa6DMBBEF7lw6RuEi0T4WhSRQPqFr+WIi8ANXLqwvH/WRpEipcKGCh5SNp6dnYXox7UwM+ntCMxvDhpPsYnNRKNx/mEiTSNpT9TIljwSqR1sQI2Nwz3M8MasVyJ2XRgOM4S45NuYaBXtwTrRl34XmfTSOPQyviY04dPfnqwaLlXXfZnwGls4jxyfD6PXqd7cwTyZIrniPWg/lLNdZ1pqOD8ypwlHUBk1ejOcg8yqRHt4fElDaGOk3ugfzqH/UCjaTP3Z/Br2IB7HG7yAcLGJLSv+Pll4BeeQmqJLZwa1KcxPSKSKv6tW19n8krl8opfwn4kIqf4M5XZESCbJEmglYdvCZFSgPdpIdjfsZWZ6s1l5aKUOrpnNR2hkJDUUHpMUqlr1ZugvonUoa5HrUmti6CU7lr01kWHOZ3+7MtyySzI+lqXboZHJblwlTzHnUuPc5z1ZGUXkK3ajl+CS3djCyt5a4RWdbDG7oe5M9i8tGzwpQYi653fTZSa6yE+XORdd6CbmJWPxDRLtp78tjOG/UsOlMue9WfmerJ7caT59ep2VXqIGQqoE1MP0Zz+uf+n8XQkXTuu/AAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28768,
+    "magasin": "Cuisines AvivA Brignais",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-brignais?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABq0lEQVRIibWWMY6DMBREf+SC0jcIF4ngWimQjJSCaxFxEXIDSheI2Rk7WW2krWLHBcIPCcN45n+b/TMCALuaeeCOreEsFjFOWx/7la/uWmtms0IWjtbCftqinbjGgu07zMeLWTOaYarCjK+GheNrTFpNc4tmtzf9PmTaSz8tjy0OHR/+7m9Nloc7vJ6+ufAzFnC0wPIAxq5FvJx9fdbc7mv+dId1a+YTJ0VMutDjHnv3/KH6bO9XYOdyAz0usxcyzNnjuNE0sT/sC+xGG4YllxFqZT6WsfEky7Uw/oe2QLpUZjZ0Rr9Qcpf8La1KmHLOeGf/+ehWX5/Jk16ejKwl1OrsYxlTCbnKf6Muc8pMZRZG9YTLq2bjsZWxq6V4p5rNm6xVbRaoFehJaExJqyLmmBnmRnuphqucV2dGyaflsDj0UNHaClnqjY7+u2kxHBarsxRFqIUF5n506o0lLPct0OcDC+GkgFZn6r/Zk+5O/d2rn3/MpMu0s54q53+0qs2QaizPILFPZ71SpjNIPh/sZ7P6LJ0nndoLi8D16dPPWdrLUf5LObezr8/+GT/HkWZuRl6/6AAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28687,
+    "magasin": "Cuisines AvivA Bry-sur-Marne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bry-sur-marne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWTY6DMAyFHWWRZW4AF0FwLRZIRJoF16LiInCDLLNA8Tyb+VGlrkhAqup+qerm+dkJ0YdnZmZyWybmF0eHT6mIjUStX9YWYd+SW4kK2ZxbInvERAY5No7PMM8b/n8g4qUKw2ZMTHN+jIlWadg9n/Sm300mtfTLBl2mHkX4q29NdhnuRDqsvpnwHps5wytdQxx6DXx9RjTsKjlZ3qNbje6jgE0GPYOQzx5fsFlyVGbuNDsHe3DCYpxPE8sY9oH6bdm7L2nOIVN95oLZ8WYifzH6ciWfitho8dMBHleB8ECX2sxBch86eNKqvy/97jOaX0xjp4toULv7JxjkYZ3ZmaBVA61K2IhR7RnaiNkRSM/UZpI3zpvYRGY2H7GQyUji7ZCZDf9dulRm42R2keyq73JpVcIkDDqzYRwUQD1ZmU3DHsdO/D3gZTG4ShmSnKR9Ljnk7KnMtBUD0iW7/gRFTM+tJGW8hnf2VJ3J+aujOtkXimB/7023mdxBMLOjC73q4p9i6kn0fxr+85awy3+4H5wNlqszuefwiWMX5hTHxzJ21VLnqRa08fXZh+cbXIY+Xc73Uc8AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 33192,
+    "magasin": "Cuisines AvivA Caen",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-caen?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWTYqEMBCFS1xkmRvoRRq9VhZCBBdeK+JF7BtkmYVY86rS08xArzox0A1+QmLqvfoh+rA8M5MjsswbR4OnVMTw2Ns0Hth66MkEokLmr5782cREDc7YOd7DbHoQ8YzfWoURtmby121MYrWGnvmkf/H7komWdt2fMU0DXr71rcnyai9LLe7yd33HPF+4w/5kMw89p0dn6zPygSw+3SbPRzShkXsUMOdDH514fBpeF6rOkImH5V+Pi9nLmJsayCceX2CaNF5Un/nloujV44y81MCVMHOOYhNsj3uIWSQutdmyHeT37El5EQvZjHT0L//Z1B72BgZ9xZqo2QiaCZ3EqoCR3yTsBw4bYZyQc6YuM7wdrJ6cpGbzMxayeURtOkVUEfQVq7rMn4OWajYL9F01ViXMTdDSYXtoqQJI7tdmqFfRaQkRs7cci1n2n+S5miZVZ5qKa5DSh7yfW+mNJUz7lloPfxDhslSdSf+VGQRW2ZjzuUVMZhD0cswgQ//W8gYmo4dB2FGzddYrZXP2H16eHVF9pnOOhhwN0mVPFrCsZQv/zdoIOluffVg/Z19B/J3vNLMAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 25567,
+    "magasin": "Cuisines AvivA Cagnes-sur-Mer",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-cagnes-sur-mer?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWQY6EIBBFy7BgyQ3kIkav5cIEk1l4LTteRG/AkoWh5lcx05lJetXQLDr6TLr08wogejECM9NMXWR+cLS4S1VsJvIuTXI5erI7USUL2VO4u5ioQ42D42eYS4OPvBLx1oSRPTLSzR9jktW2e7Y3/cvvTSZz6bbjimkZ8fA5vy1ZGeaKZCDO3/EeC5w984H/XkfPaehde0bLSOp4CnxGu3fyHRVsFrXn6XRJHpLJjtozlHN8k1PHRfY6RsvETuKwX5AmTZnas1leP4jaMAdZyQvUMPv1YLfiG3jt1Bfk0ppJ3Tibi5NRvzW/ChZ4L31u4Z9L5nTtmV27U8sxZ0JWvWRVxziKf7zKz96XGk0ZHKfi5CJrNl+xkpndx3mQYgT/NJfmDIrEoGs25nfTrKoYLrFUe7gnH8Q/fd6WLR3WESPtOIEbjpVMaojjjD6XGpSaM21Fli3MoO9XI3tjDdN9S9W7pxN7bXbUnMn+SzRgOzAPrCclqxpWziDi+Vhy+RCTo4fcYs1+1q1h2i4k54Nb+7w103POoU6eEOc3v3eZziUf8K8U6l179mJ8Az5ROEa8I5YKAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28757,
+    "magasin": "Cuisines AvivA Caluire-et-Cuire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-caluire-et-cuire?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrUlEQVRIibWWMY6DMBBFP6Kg9A3CRRBciwLJSFtwLVa5CNzApQvE7P8mWu1KqWLjIgoPibH//Jkx8GZ5M8PIP2bfFho+xSzGx9bFYTegb9GsQCbzZwt/VAGoGONp4R7mYvdwNvMsSxGG9Gl/3sak1bK2Zgf+6fchUy7d8txDnHq+/M1vSXatmvmtaZy/6zPm7eQZKEcz960pCeXZOA2bi6iovW2hWSt5PIdBnx4ox9TrQKdiFGfDJo8zHD1+mT2HeZY3xo7afK0KduIWtgX/pL+5qBVczGKvFtKmc8gsDuVZzZ17ejy5XYnOY/5gqdB/Jv+5WG+uPANbCGufnuQGqNVDWmWwZmYLQfI5f2xVzZRmmCp5UmlVz7Y9ZDLlcuweKZi9dCnM/FxtNtfXWLQlaZXDRrZRaGaBde7MUp2XZkwrt7/TjgM9zg1ksmmwwBdOda4YiMVZKsXUY2vWvUTLY2lumdF6x7Bx1p4OxZnmLxp50n+bXXGzmO4gcweX6ly64B6muk93EA6cUIClcoHuB0eataWZ7jlGydVL6NAUN4NduWTPpv4K9HDl2Zv1A71nN26qPaggAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Castres",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-castres?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqUlEQVRIibWWO66DMBREL6JweXcAG4lgWxRIIL2CbYHYiLMDly4Q9804yftIqWJDRU6kOJ45/oi8eSYzE7ebOdssOHyKWWwQaXVZW7x2rbhVJJNNZytSnypSYYzdwjVMbb+bm0VsKcI4GY3TeRljVrH34g75l9+HjF3qst9DHDuU8NNvSfYQ7qhCrCHOXwk/Y5OdcOUm4uaOL41ewGbmBMfxrQ9urTi3DDaMFdYMHJexk6eIxdm0+V/HGVoem77QJR23Ly7O/pQr2OY1KYJ+kRVkz2KIgz/t1Y4q+YIJlWcVsrqh1jr5zaxymIN/uhzYR+CfxtpreTbU5jlmQMeCrBpklcMcKgyDwD9hOCvXTGkGFb3OdHLknm33kMd4UoHBvxkDvbIqywZGNHFrZb/LM78s1tqc/OtEzc7HGGUZx3TcY8feuJhCJkPkyT+WyjEkFmdpKdLJiD+AEng25rB0bkXWCP9w1p4qxRnPX+6x6HeDM+lAy2KvO0ha58+sLmHJSdxBYp/uerlsseQfN6lGpDzjPcfoJLLn7hXy2KNL3A/sSIU2Wp69eb4B9fs/k2wi9F8AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28745,
+    "magasin": "Cuisines AvivA Chambéry",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chambery?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWMa6DMBBEB7mg9A3gIhG5FgWSkSi4FlEuAjdw6QJ5/yyGr/+lVLFxEYUXCcezs7MGPiwnIugBK/ISX/MpZDE+tjY8V766a1EvQCZzsYXbKx9QcY+3+HuYDQ+gHgGZizDw1QIXb2Oq1by0Uu/4p9+XTGtp5/fmw9Dxx9/6lmRpmWhheJa/6zvmJLYi701k7FoJj8aWZ72JUMFAe6++Xir1eA4bwFc/V0tdzgMVZzAsKT0uYaDH1ex5TG3ie3pcpkU3i7iBTbJSe/HqHGoFG7KYG6mLehw8h5pF61uY1Xu12vH0JGubtMpg3IMFSP6zway2PHNThFdPivBLvTSqVQaDZsmo/gM/ZNGeKc3ocdjxcWW2bD6POVlaK3sSSE5dSjOOA+80qjUJ56RfBusZo9Se+bR3OnBT7xdmRluHoRWGJz1uxGeyI/o1TycViKYJxdnRitQLwfEPjEZnYw475tblP87aaFGc6fzVAPDBvNib5prnXzO9g6j/jj4/tbqD6XYcMWBmH3e9bJb8x6LuDctQnB33Sc3YgZfKPnkyg6Vams3L0edobHn2Yf0Aw0oiObTfcM8AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28706,
+    "magasin": "Cuisines AvivA Chambray Les Tours",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chambray-les-tours?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWMY6EMAxFjShS+gbhIohci2KkRJqCazGaizA3SJkCxfsddka70lQkpAoPCZPvbztEX5YXEZqpiyIPiQZPqYrNRAMn98J2GsisRJXM54H83sVEHWI8JV7DOI1DNIFIliaMzPMVk8+XMdVqWS2bnf7pd5JpLnnRGLcJLz/5bcmO1W+cehjn7zrHvORB5Ilvh2mQNFpuz+g2UTw8Lls0a6fnqGH+gZpxmaGLHihrjOYsE8uOcDd4XM1ex/xdJM6jJXNfoYvL1J6ZOyTysLY6B1oRpyo2k9PtUM6hZoEurZnmV1L/itQXfxf9KpiB7fjtPxh94/bMy/r2ZCYcyHKqYtpLCNrgCG5jWW3Rqi2Dq6HVqOWjPVtesZL54r9B0LOR0KJLa6ZaleBJO+Hy0e8sm0lbEj5v9gkFKrlo1Zj1iIs5A487eLxHQdUxlVy3Wucao8yetqyUYoAnE36AQ6+zsYaVuRXUervbMGszU3NWPO53tCk0bwm/WlUwvYMEtNGj4I9cXsGShtM7SHKfuHVM/aL3g93yBUzvOQEMDWWDQ9/6nWXHnWa1JKXOyXJ79mX9AHv9VPVGsHUxAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28863,
+    "magasin": "Cuisines AvivA Champagne au Mont d'Or",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-champagne-au-mont-dor?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtUlEQVRIibWWQY6DMAxFjbLIMjcoF6nItVggBakLrkXFRcINsswCxfNtOtWM1FUTWFTmIdWK/7djog9PYGayWyHmJyeLt1zFRqLeLWuPcOjJrkSVLJSeyESEHXJsnK5hjhHamYiXJgyH6VIO5TImtcp+Zz7oX/2+ZKKlW7Y95WmACG99W7LTcAe5bGCcvyb8jgUu8Mr9RnYeNHDtGU1E6fQ4x2TXTs5RwazWRcJpwL+bghytWZh9TGR2MHg8HF2qY3b2yCIef0hz+kIXsAd+x9dEQq0gdBVTjzOf55BPjpozooHcfD89CW2lVlUMf42+xDv8hw/RtWdj4MjZiCcLzLnepFYVDI7rKWxyBB8dr9ozjZnlFSm3HXWXmc17qmPh8GKTnjGz4T+tS2s2mmeEHTH/RN/lrF8NC2vvZkKIPocRi2rZmCFklvaZPOplOFUyaMnLgXmKPpcccvc0ZtqKmCeJApLPRu7GGqb3ltQd54i4a3WeNmYyS3AYzBLzRG+a373pa6Y7iPpv6N/6XsDy/bWDZK/6VjN65YCo7gKme47kxSxB0TRvBVMtmXXXkyX15tqzD88Pt0VnBKsVLgwAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28862,
+    "magasin": "Cuisines AvivA Chartres Barjouville",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chartres-barjouville?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWPY6DMBSEB6Wg9A3gIhFcywWSkbbgWkS5CLmBSxeItzNmtT9SqrWxFIV8FM6bN+8HeHOCmcGjiWYPiy1/pSLmgd6lUY9Dj3YFClk4eoQdLqHhHU+L1zCX7r3ZDNhShaF9HkjhuIxJq2WFsx1/9PsnUy7d8nzFNA18+Z3fmuw8N7IbjfP7/I8FO6g75Wjnobd079wFbB9AwTowgi22a6PYChhoO/jxZZgGBXQ4VGftPm7KLTDR42FvYhnzgeXt731sP1bqMh6oz4I9NlpbHjcmYFWBljDGYQiUXHFIplOXqgwTv+y5Ufbsb2lVwtq5MSd/G/3Hh81dwdim+EG6HaBWnbQqYIG6sLxfZtk461kzdZmfJPj91J5z5hXLGF1NXcbDMSD6L+tSm/nAkmduc7+yJWtVxED/+dz7BhrHVOcXsC169lhMfKk/UMqoiyRRneuOPHvqslyKZpoLrPtZohWxPLd0h/ynpuJQnWn+5mASG6Gd9xYx7SCz+qnq/CuXV7DcqrWDcEmLFRhXmbzruWXv3AVMe84sT9KcMnssYz+5zHWOztVnb84nKPlDE9guCnkAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 14575,
+    "magasin": "Cuisines AvivA Chateau-Gontier",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chateau-gontier?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABs0lEQVRIibWWQY6DMAxFXbHIMjeAi1RwrS6QgjQLrkXFReAGWWYR8efbRdWM1FUTWFTwkOr4+9tG5MMVAIhbER2e+gOkIvYQ6fy8dBDpO3GLSCELRyfS7FHkxhgMdg3zWHn+SQRzFcZkbjGF4zKmWqWBcbP80+9LprX087rHNPYswru+NdnLcPmG1NA4f034HQs4OqR7Bzf1etP6+sxNw8Y8qDuwRbfwAEXM/KIepy5MoTkYozajTJt6HDLS43yKZYzWYwba5z8aaDikPuPJ5fQ4+GIRn4pYwEJrY/Oah/6/1bcyU61cZrjG/P3W70smI/sSufWg//iCwaqzR4B6kiOEolGr1qci5vJgx6cmNDsW65nKLGS9tVmiMxt7LGPCkRQD+9JNQv+dWtVldOLGlfDyJGbTqoQ9aBOv8yRJLx6w3q/POKayroOB+jeIhUxshLCo7HONYbunLrNW1BmbAvt+anQ3ljDbW1bGcdi4a49XLasy3b/8bmLc5snvBltoRcx2wLrb3jJdLmIqmfY+Z7bVt5Sd/mOw3PoLmNj807U7bOrQWMaslumuQ0oLKq2vzz5cvwyJT78NsonoAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 29404,
+    "magasin": "Cuisines AvivA Clermont-Ferrand",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-clermont-ferrand?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWMY7DIBBFx6Kg5AbhIpF9LReRsJTC1yLyRZwbUFJY/P2DldWulCoQigheJI/582fGIm9WACAzN8ADyfKUmxiP3uXpCZHRi40ijSwUL+HQ7cAYG9J3mMvXi9iFd1m7MKmPDuVrTLVaowcO+affh0xz6dbtmfJt5J+/+e3JzmWYX0Pj/F2fsYDCO2yAXUYPJsH1Z3YZ9jTLkHiDPdk48B4tTF8fedI7jHqh4qQ7s3jsDseQ5EaPB900MWEKZb5SmztNk6ci/Zm9F0lhK5LpHGolLjexgOjdIp66DNUvNb99mWqlnkxnEuSlXwOj5PQf6D+Xze76s9lgB+KQsqFoNl6oVRMLDz5+Us/oT9Sa6c3sPbLtHUyretLimdoYl86Ai7Oa0FOX3myWaVfttfaB9dSqielsrN4bxQGlxujNRkkzPZllgnaW1MiM1gxbEpPgNYbOns6slmKuPZZ1vxidjS3snFug9WhCztripDtT7dn/GNuo2c1rnn/M9BuEHhedW1UX+Q4De6zlUQdO6sHY/muM9ThrvzNTjzMua3/atXulNlZzmfkNglrncnH92Zv1A0LVUosIggXoAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Clichy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-clichy?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWMa6DMBBEJ6Kg9A3CRSK4FgWSkVJwLSIuQm7g0gVi/4zJj/6XUsXGUiJ4SJidnd018GF5M0MPOLOHhZp3MYvxtnGxW/nqtkE9A5nM7w38dgkRF+6xWDiHuXgDbORvKsLAVxv8fhqTVtPcmG34p9+XTLl00/IMcWj58J3fkuxY1e5QMZa/6zvmbWcMy9PqsW0s3q7uBHafoU+nx20N9XxRbBlMr/71+Cug4syPvEweH+hxXeQxDDg8Xt9pmtjtKM96dGvw9LjaCLWCi1lMBuSDxsA4tKdDeVYprcvhSeY2aZXDho4lTv9ZSmq1uvKMEq02zQpoB7W6UqscxsUWYquzrePfrJopzehx1tCm8lHPtmfIY31F241Hz6b/ki6lmd9UR8sxFimatMphffWQ7eQ/BWR72rcw8w9KLk/KODRmyGRIl/Qf61x7pNlTlqVSlCfJ4MZKszGHpblFn7s4dDT7kvppYab5e/RYJsHGl1YZTGcQznLUW/vW6gymo4fdeQaJXTrr5bJI/6XeNG1XoDzTOYee5OdzQPZv/b5lRy5TP1Wd4+rKsw/rBzzIP9ec+lzjAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28753,
+    "magasin": "Cuisines AvivA Colmar",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-colmar?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABp0lEQVRIibWWTaqEMBCEa3DhMjfQiwx6LReCgguv5TAXcW7gMguxX1WcvwezMjEgxE9ITHV1d4AfozMzNIAzu9mS881HMb6Wztczl65K5BMQybqtRLdeFo8L97jbcg5z/gpYz2dMwsClDd12GpNW41Sarfin30GmWLrx/lh8W/HjO74p2T6yzSHjWb7HMdbZxjPcH5b3VWn+WrgT2GDz0+M2L/l00dkiWNM+Pc49ngdKzpg++Hhck0imEMrj+UDT+HpDetaEgNLjKiPUCs5HsXzg3Lg8eA59d0jO0IaUp+Rd8Peu1XEW5JD/rJdA2exOYGuor5zYBmpVSKsIFvxHe3Naz86m4uXJhAzZBNYqpY9qtj2WOKZ6qtqnmk3/BV3Ss9vMqS0hvuOuVQxrtTQfJo8Kyiv307KKWsmTqOlx/UAc4++zb9F/NKL2CP08LQupaGphDLTrM/XGGLb3LfrPaPY9QZMz9d+9xnY35uauVQzTHWRcldzVR6sTmDxpA+8gvg53vWhG/4XaNK4FkJ7pnkNPQrUEzVu/oyzEss9UT0PyFC49+zH+APfDUcy2PkDSAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 25588,
+    "magasin": "Cuisines AvivA Compiègne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-compiegne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqUlEQVRIibWWMa6DMBBEB1FQ+gZwkQiuRYFkpBRcC8RFyA0oXSDvn12SKF9KhR0q5yFl8czs2sCXx4sIqjW6ShbZK/4KSawHGjfNjQBtg2oGEpmPDVBGBxSsscr+G+ZkfYiMgExZmG6G6safMdUqdJuTA//0u8jUSzetjz0MLU14+5uTnYE7Cgklg/MZwmvMS2wk3Kj72OqidvkZ/LJZTBhvLuZC95HAKm5BNOPV2OIZxNzM32e48ZVxiranMQwd/dOM31kodBH5mb8vm2WcbygYPyIkMf18y3jgQmuql7nZAJhEmkl6e2p1nfXUhYbSVObPhXJz+Zn6y5hwhJQR1Ko2/RLYwb8eQRsHHSiz9VFuNhYbx15EGHRmy2NPYxVjt6O0mc1Cpktu1nvZeJadmWSDqlZJDNoz5JyncCLaoNmZn5+Z5EszOpGVsdl7nacUSGvo2ZOZWSuOWs7P5yKN2bkV1EZ0FhyH7EzPX90MW3JhZsrXvekye91BrM+fWv2CaSaD3kFC966bxJg/qzEdNZCf2T3nZpnkAXFmMoGZl2Lz1AytXX725fkDAlRLUj2kuFsAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28711,
+    "magasin": "Cuisines AvivA Craponne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-craponne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABq0lEQVRIibWWMY7DIBBFJ6Kg5AbhIpF9rRSRsJTC13KUizg3oKSw+PsHnNWulMqQaSK/SAz8+cMg8iECALmKOOCBaPmVmhg/vUvjyqUHL3YRaWQhewnbKSY5MccT8TvMpYuInUQwd2HCpSEhf42pVvPiYTf5p99BprV08/MV023gn7/17clqmOzE8Cx/4xgLyB54voBp8EiXs+vPNOrWDdZol9N+jqOMNvHxOq4O27AfqDu7mscKbEx3o8fV7K1sqR7HnaZJY5b+zHL7pR3VOdRKXGpiYh7gj4fwHFoCrWVnZu9MNe2eZG1Vqxam22ei6j+XzOr6s1BswkgmU7TlzEO1MLmNXJ7+Szc14VJ6pjOzd7329M5WT1q8YhsLKge22jzYdenNkLW+iNCYq34N7MqRSMm91lIHbunz7kwb8Zk5DkY1DmIjM2//sc81h86ezqy04qQXLZYqWhsrcwug9WhCztrspDvT+VvfIOFB/c17nh9m+gaZ6b/S57tW32DJaAuxodJY3nqtTNul5Ji3s86F3qy8J3nH6l2i7oltrNRyov9qn8vZ9Wcf4gecCTK0Ca/hqAAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28718,
+    "magasin": "Cuisines AvivA Creil",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-creil?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWQY6DMAxFjbLIMjeAi1RwLRZIIHXBtVJxEbhBllmgeP4PnWpG6qpJWaUPqQb72UbkzTWrqthN1epDg8WvWMRGkc6tvsOx78R6kUI2p07EJCfSIMam4TvM6XaoXUR0rcL4Mi7O6WuMuYrDLvaUf/n7kLGWbt2OEKceRXjVtya7hDubEA3E+SvhZ2zWBFduyPvS89C6+myUXqiJitE9WN9kxwsYH9/CcT17eYpYm9l7ErfwOMFxJq2M4T3w/3T8zuYcktRn9hx2XbLjir70OBSxeeEI0V3Y55SF9a3MRoNQy+1yErXNuSpjHRxHMhDMRbO7+kymHnobzuwEOX2LXBWxGTEwT1SmYXfq2TPVmYEhdvud2XqEQka1R3MopIF/z7zUZUw7Hh+xUV5dc65K2Dg/oB1Sgt2Im5p7vz5Dyk+MqWnATaOhkAmOI+ep+o4x8u6py3IrKlYiZgkHF3djCct7i2W0C4bKmsWpzbh/LyfNQ3NDxTLGb5CY/eu7Vy2/wOhkRENhZr/ilrBV4QxjrGcrUp/xOyfPWIjOTRnK2PVNk+cp+1xaV5+9uX4ARyANQlb1cuYAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28743,
+    "magasin": "Cuisines AvivA Epinal",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-epinal?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtUlEQVRIibWWMY6DMBBFJ6Jw6RvARSK4lgskLKXgWkRcBG7g0kXk2f9Nkt2VUmHHUlB4SB7P9/eMRT6MSVXFiVjVuwaDt1jE8NrZOGyYuu/ELCKFbEqdTI9LiHJBjFXDd5iNVxH1+M1VmGBqlSl9jVGreekgufzT7yTjXtp53UMce3x8729NdowmWWmQy99xjk2aOtV1V+N7JHNtbX3mRpFAj8dGt2CWCz1ewGA9DY4eH/tnQvWZH7aQPT7iI/8UMsRQetzcaJohSX2GlWdrK8sItIJoZQy2w9I7FeTB+aFLbQaPb+qfnsTeZq0KmKPkrtlV4T+YZrP12eRhE3hSjCaBVi20KmGCMsqabdXzsfDM1Gbmdt/EwDTZk0b3UMbctHTWHzUb/ju0qs145PEIuRLOWasixhi60H89G256xa3JhCnkEjLA41xAGZt4LUA91RuDwTSxOstH0TO44tz7hr2xhOW+Rf9FGTYUlXSc86qM/VfcFTUWCal/6Xee8Q5C/5lH/6vVFxj6WNAbim0c8l2vlNF/uTbNj1akPuM9R1cuHw3SvfU7y/Je8n5wnHNpbX32YfwAIQhJdU3u8icAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Forbach",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-forbach?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqUlEQVRIibWWMa6DMBBEF1G49A3gIhFcywWSkVJwLRAXcW7g0gVi/4xJvhQpVexQ4UexeHZmbZEPj1dVMbuq0U2jwSoVMSfS22Xt8Tr0YlaRQubPXqQ9rUiDGrvG3zCr+0PNLKJLFcbN2OTPnzFqlcYgqPum35eMvbTL/ohpGtCE//7WZJfhjiYmfH0z4XfM6wmv3AT7GPjS2fpMWshzeVxDNGvDfRQwfwyXx1FDnkaszdzUBJ1fHqdoZczfN80e1zvDOZ5SnzE+NCa2oMjlCrMXMQ9rRzcGq0eT/UKtKjMn0IprehK9zfoVMMHYA8Mcgf9saoOtz7xu7K9GwSyBVh21KmBmpk3ov4PirMxMbeausQdPTpzZ+ohlLPtvbuE/NFWfulRmrtVgOfJyf5esVRnbcNaST4NY1Zzz2kxolRtmrIzKMMVC1vL34T+DnLOGpOosRzGhXPLIPc1ZxvK5lYS5GcNlnOqM5y82g99HExgoLWS8gyycp8z5U6tfMErGJWZ2vuuVsnnM/kOxoxOpz/J9kneGCZcd9/Lp1yz3Ms/TgzmXztZnH54/kgpZ3kEqVmUAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 29765,
+    "magasin": "Cuisines Aviva France",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/ava?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABYElEQVRIib2WvY3DMAyFabhQqRG8ib2YcEqgxeRNNIJKFYZ4j5RzP0BKKiwC8HPxQvqRNNGbiMxcySduC3fNmjkLREsN/kF8VtJsAts0WQtn/6ySTWKREzsW3XlsRdp2z3USk/7FGotjRm2/PTVk6oPgU4Hus/7xhiHTWPki2v+b2pBB6RRlKZFU3p4h2f2FmaEDjyLfPZ3OEAdf/rGBLFL2CFMWC3dM6sro6VLX0QN7hp5yKrJ6EJztGX67T1VLlDka/bNla5GSZI46jdVD5gxJhm7APpCH0kZzFrCY8fqD1NZvXWuGOerqZ9wZCXc2c6a6idXPMqvu9V9MGRZakhuQKcpc7p9iL4+fuk0dN3M2FoB4XLxBG09g913g4qAr9y2TOdNlLXcBHof8RkezZ+Nb4CK5odK/THNYwO5s9xxxm8T87XEId7Jn+r0x/Lzwzw01ZcMHUtRZvyTLn2Fv4htBpb8F+HJbdAAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 29685,
+    "magasin": "Cuisines AvivA Fréjus",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-frejus?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWQcrDIBCFJ7hw6Q2Si4TkWlkUFLLItSy9iLmBSxfB+d/oT6DQVbWBlvgFYnzzniPRh8syM21EhvnJUWOUmhiGk0lrwKuXibQnamQ2T2SvISYaMMeL42+YSTMRO/yOLozwaiabf8ZEq8NPjHnf9PuSSS3N8Tpjeix4eNe3J6uXykaevrnwO2Y5Yw2vk7VbJk7zaPozfaGs+HSTFIeo/YBBC7P7E1LA4/pa/hfUnW0P3BaPP+BxuWljds8iB8TYYZq0ZurPNlpDtMXjjFx6iNbENKwt9oZXhuIXqWVnZt0QEEdIroq/i1YNjCQq4j+G/2CaYPozvT+DbFWkORO0GkWrBoYtSUoYDF/y5yUz3Rniw25GfMSTms/Yxiz7e8/GZEWX7myHRPBkLPU9ilYtbLN+wmrEf4s03JLz3kxh3rqFrCzKxUYG/2Ed8B9yLnNI7+nMShTFk0kh905Jb2xhtW9x9V8NaHcm/bfusQqbt6tatTA5gxyXNKvl1uoXjOFJhjkR0HLWa2X1DCLng2sk6s/knOOUfD4a5Hbr9y0rtXTq5JpzGk1/9uH6A9EMTb7pqiLHAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28663,
+    "magasin": "Cuisines AvivA Fresnes",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-fresnes?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABpklEQVRIibWWMa6DMBBEB1G49A3gIhFciyISSL/gWkRchNyA0oXF/Fn/8KVIqbDjhuVRLJ6dXRv4sEaScCvp+ODu9Bay2AC0fl5ahV0LtwCZbDxaoD48UCnHyv07zHN90k0A5yLMNuPDeHyNmVah36C8b/pdZFZLP6/PPdw7FeG/viXZn+FitQd9fTPhNTbykFdu0D46Cxpfnkl7aB/KWXPb3VIxZLExJslbutjhZcTyrAMnC+/yuImWx0wOjPI4f6w5+wPlGSA/nhNJWsnsWczFSrOJm8Iq+UW6lGaDPaabylonf5tWeUySQ/6jBPKh3nx55mK/pREiq0BaNUmr6wwa1dQYoX30XKxnSrNxUjiv58zmc89jA3rK4/KfJTq1KszGRbJrO7Q1J62ymOlC+U+1hCePlLcwq3UU4KYZe+/l8Zp7JlMOzyjTqc8tB0JxllpxUrog0f6CLJbOLaY7SDJ7mqeFmZ2/Eky/Xz/MOHagZbHzDpL6/KXVV5hdFZRbM5sswIK1eLT7QWyA8izdc8yTdkAML09eZ6mWk83TaH2OxpdnH9Yvorce5DjMosAAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28669,
+    "magasin": "Cuisines AvivA Gap",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-gap?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABZklEQVRIib2WsY3DMAxFaahQqRG0ib2YcEqQxexNPIJKFYZ5/9M+IAekpMIm0EsAhl+fpEQ+RFXVFvSQvuhpp+7OisjUapMctYmdBrCsWwutiJ7p2XgaxAqKihvzjmOSjixz0jaImX76EN0Utb1p6sfMByW99j5DvzdvODIL89r839SODJk2EMl9goxM789wK2dS0gVFVr39PJyFvS/sI0EfTfyK5TszEV1pPHzAJGG/pPVlJUfrVdPUfjGErRJaRYk0Yr409WV1t8sJislJNZnXm4WdFcF4wqYNKrM/o7nRoI+szHzl9Wb0s9hcQ4mIeM06ZwY/B8w17hmUGC2vMxMoVvXFoir7cv4Ws14N2iebptH2tC+zKMnmKTop6wBme6GaN5Aet7iKOyuXtQ+JeNEgr/0Nb8Y9Tf0QT+q3DmOFO8D66O994M1ALo9bw/qz+/0nsMSk9w51ZrcPOAjaD0/rd9iH+AUj6pvOJ7uh9AAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28890,
+    "magasin": "Cuisines AvivA Grenoble Saint-Egrève",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-grenoble-saint-egreve?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtUlEQVRIibWWQY6EIBBFy7BgyQ30Ih25FgsTTHrhtez0RfAGLFkYa36BPZlJeiXoin4mDf769SmiL49nZtLvQMwvjhq/UhVzRINZ1g7LcSC9ElUyfwxEagPrsMeb4z3MMJZ6JuKlCZOPgbrHbUy0SpYZ+/7T7yKTWprlvcU0jSjCb31bsmK4HfVVMM5fE15jno+B02NgnkdZ9OYGtnehfIfiEHU2ZxV7Yo9l7Y3eR3yCOmSP1ow5mFkFShM8jlPEOqaf6+lxLDjZg9oz5yGReDzhBNCKTKpikkbweOlzMQt0ac2cX4snSWV/i1Y1zO+WyVnJEvRMUsHcwJ6vQE5tkfkgaNWbVMUcIUcQSegZGwyv0jOtmZdozccXT2reYh3L/kP05fwrL5sz9CVFZ+VuxLOc+l1nDjaBHJ1kExkUQLRqzSZoBQaJYBwYM9Yy/L3EKOeGh2lSc5ZbcYbHExoKwSV3Yw3L99YsPbnbACOeedqUyf2LuQlZ4l/QX33mpstMZhBYr/T5Wctb2KNDC2EGwfAQG7BF4p9kPth7cwPL86TMDJOV4Mr7VrBcS2nJ0ufUm/bsy/MDb6SDL82mHrYAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28700,
+    "magasin": "Cuisines AvivA Guérande",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-guerande?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABs0lEQVRIibWWTY6EIBCFy7BwyQ3kIh29lgsTSHrhteh4EfoGLFkYal5hO5lJeiVYSRv5OqGkePVD9MUsM9NMpJlfHHusUhXD0ug0BWw9Guo9USWz2ZDdu5iog4+N4z1MpwdR74h4bcIIWzPZfBuTWK3eMPz+i99FJnep1+0d0zLiz9/7bckOU1mTwln+2jVmORvm7c3sRsPpMegb2NOTLp+uOMTed3K2Clbucp4C+Pg5UHu2SE7u4g4aF7HXMes6LhrnJ0STpkzt2byMh7RFOYiVBK6KWW8iftBKV/RSYtWWiaGEHJqUgMU6ZncyYIf+dFJBt2eo0qFoMqmMD/ADFjVsVtAfQX+8y8NLzrRm/ZMD0hE1e5Gaze9Yx2YpSe6o2dBfiUtrZh3S0Uqplkq4lljVMPGByGN7iB0NN3/8NmUia94y2sHEUrRiJZN0JAX9Ic/FR+nnbVlJRUYLYzy0U9Iba9jRt6BzdlNAUcmamjPpv9TLDGJfyE119vPL7JxBSp6fsbqBcamxmEHSxNyAyQyCvoWXfSBqz2TOcWiJacFQOZ86vczKXTro78hzGnR79sV+AE55Mu6dk5IdAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28691,
+    "magasin": "Cuisines AvivA La Martinique",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-la-martinique?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABuElEQVRIibWWMa6DMBBEF1G49A3gIgiuRYEEUgquBeIizg1cUiDvn9l8Rf9LqbBD5TykjFnPzlrkwzOrqrgjiequ0eHXmcVGkdavW4tl34rbRDLZnFqR+hlPqaBxaPwO83pg/4uIrkUYPqaKqulrjLU6h+BPLP7W7ybjWfr1QF2mHofwPt+S7GW4C3J4+8+E99isCV7pGtGlt4Uvz6TW4FlyvA3RbRW/I4fNO+rC5dTz3xM1CjP32CTC42oen68q5rGRGnok75TNOSQpz5zugZrwuKIvN4E5c9g4DeoX83hlfkFdSrP5odDtIFebv1mrHCaIvShg9B9eBF+euatnhDCzk6BWDeuXwQTtDSFmNoqjm/VMYTbrBsmD1mZm6zPmsZGRpMeTmQ0hq0txNu/BYyRYXulqtcpiEzJbkSfscyyS6RZmNXrfXfT3oEyvmMmwjGNnoUKxZLOnLLNWVI5EbMAvNWdjDrO5xVhy1xBodi/FGecvCobtIwgVur/3ptuMd5AFdxrHPudZfokprwrQRma/dbMY/Se8H1yNzYXCjPecpYMnpyGgaC9P3md2lgv9Z30ujS/PPjw/2rZUshu4utwAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA La Seyne-sur-Mer",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-la-seyne-sur-mer?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtElEQVRIibWWQcqDMBCFR7LIcm6gFyl6LRdCCl14rRQvYm+QZRaS+d8kfwuFrkwMtOAnGPLy3swQ/VhORGimLog8JVg8xSo2Ew0cp8SRxoGsJ6pkLg3kDgLrsMcm4RrG8dazvRPJ2oSRflokXcZUq9UPkJy+9DvJ9C553V4hLiNefu63JSvLvCTi7ZcLzzEnaRCBHPY+4jC4hPaMjKegHse+e7C+03NUMNVF4oTfMurXE1NzRku3sxy6HTzuji7UMQc5wnwbEHE1zZSoPYPHiWVLpGUEWmlAaxjiOLB+nnAONQt0ac3cw2scX4FM9nfWqoLNyyTkNjxDII5m5/aMYJO8XTSJoFUPrWrY7FD650k9o39eM9Oa2fu0k/3UbIFodezhcZdHz4JLlaJLazbn7BvR7IusRasaVlqi5nKE2UVzfgGDTkYlgnFgzFDJnNe+lViyQGhesTnLUVw9ZhAEiu8qWhXLfQue4bhMOwL6rrEtmfbfMoOYJ7Jp3v38NNMZRA41+1h0oWvYmmssZhA0nNCCoZ7m2rQeJfuNWZ4n0RJVe5r/fXqelbvEDGJzzqnn9uzH+gM+dVaz9/KPtQAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28759,
+    "magasin": "Cuisines AvivA Lattes",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lattes?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWMcqEMBCFR1KkzA30IqLXshAUtvBaihfJ3iBlCsn8b8Z/hYWtTAwo8YsY8+bNJEQ/2sTMNBA55o2DxVPMYnhsXOw9Pt01ZFeiTDalhqajCpEqzLFzeIa52BLxjGspwgifZsvpMSZaLWsDyelLv5tMYumW/R3i2GHwim9JdjaTnIx+ufAemzg1zPub7dxhMW3tnmCbD+LxOLEPdq10bfeZPSD5IB4fu/8FPcAqHy6PSyePDdRzGOBx+xLT9InKM6S8WpvJMPJyhWhZbMDvY6DBTTvkqDizjNSx++lJxFb1y2CqywT/MfznovHuAWZWGVCrELSqRasMRiPmoN6jixuvkjOlmZ0r7+YW6TNKzeZ3yGPTLPXv0JoN/6kuxdkLNpRSrfFdVKscprE8/dfJhps+8S3JRumKJzGIIMsLWQypwrOB/5DnMgfF4kxTUXIpwpxuNrI35jDdt5hhvaP3KCrJUXEm+y9RixprNlnQqVUG+5xB7NFdWj3BGJ7kF84gsdezXi6TdNHatBw1UXmm50kjv48Ncrj0u8s0llH8p3lOtSvPfrQ/HsAd7dbmylgAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28718,
+    "magasin": "Cuisines AvivA Laval",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-laval?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtElEQVRIibWWPQ6EIBCFx1BQcgO9yEavZWECyRZeS+NF8AaUFIbZN+husslWwtqIn4nImzc/RD8uy8ykN2bNKweNp1jERqLOzEuHZd+RXogKmU0dkUqGqMEeG4f/MMPbztoR8VyFyWEMc/obE63i4CWGX/rdZBJLM297iFOPIHziW5OdhjuaEPH2y4T3mOUErzygu+tl0Zr6TMIqNmG89UEvDc5RwghyYInPTz1dRqzN9HP17N4eF9HK2KiWLljx+FM2GhLVZ/hzMpDHRMXIyyU/FLBcmyA7gtBkvxiqzsYJd315ErHNWpUwSM7uIaZDzkTlTX12Jk72ZII5l9bEImYdIZYII02DN7zkPKrM9BNlj7d3zeY9lDHrBg6j2iEOwX9Zl/qsx74ordIWeb60us9GuzLqv8eyz41A4lubTY2XGotaMsDjikMhU9IDDpLDdLl5xeospyLyPqCWkHFKemMJy30Ln0c/Hzx6bbpyvyaT/nuWarXCM+o9N91mMoO47L+++8T3D0wkiyi2qNmffUvYDP/lPeajJarPZM5hqbGEYWc8PVnAzpnmyEOBDKmtqc9+XC+XOjd/BEfkWgAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28709,
+    "magasin": "Cuisines AvivA Le Pian Médoc",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-le-pian-medoc?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWMY7EIAxFHVFQcoPkIqPkWlNEItIWuRajXCR7A0qKCO//ZHa0K001kFTkURjs729E3nxeVcVuWVQfGi3+UhW7iwxuDQOW4yA2iFQynwcR8x2TdIixabyGOd1w/kVE1yYMl+miar6MMVdp2l3C4m/+PmSspVs35GUeUYRXfVuyU3AHwmH3nwg/Y14ztHLrRZexLNwF7CucKcfuHm3oeLc6Ro1zOeIKJp8xmrK7CeIWaFyocX90sZYVjWdnlc05ZWnP7NLtjAmNK/oSh0hVzB+T6qrUeFf0wlw1ZuKDREtNmqJv5qqKMS/rwWSgZ5LZ3QXMI9v07GQyDhB6mkAFu/uHFs+WGYaigT3TnM2jKGK6NNOzleKsYYIYnAFqF4H+nnlpyxjXYSQINanrmasahpHolPrjJgYBY7RmsCnohV4y8UIaq5m6dBNnaVIcXqk5K61YRqIvxsXZWMPK3EosI/QH8y4e25hx/harTuaBd4P5fTd9zPgGoWeXPmctL2KpaBJvkDS94tawhS3OGOvRcy60ZuU9SU0i95g6RZMV7KzlDR54sKDSu/bszfcDXENJpvpKwqUAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Le Puy-en-Velay",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-le-puy-en-velay?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqklEQVRIibWWMa6DMBBEB1FQ+gbhIhFciyISSL/gWv7KRcgNXFIg759ZpC9FShUbCuQ8S2w8O7tr4MMzmxm6p6XOfvUy24vYBPRhjT2XQ48uAoVszj3QvgxoGIPBrmHBuLQFsLUK42GaZJYvY9JqHyU53vT7kimXYX2+0v4YmIT//NZkp+GOxrT7ZsLv2GyZXrn31i2DFrdQn6GNoE0y9tm21MVG5yhhtJ3J48Cgr2fFqMxYjltY6PFdHqdoqYx5DPM6V3GOGfXZ/JMRdve4cSPqRwmb2tynadzE3S/UpTrDuKE7GK51f0urEtbR3rbQdvIfN7ZwAaNWPAxbSJtpznjjgUrYvHgLoSYPimPR66gym1p68uwl6tn2SmUM3pKeObBn03+uS21GmfT3m+T5XV2rIvZQLt1/AwIHgWLUZoxrJk9ipMeZ6FL2a5juMl3sFUOzpzLzUpQfycDGpdlYws65pX5K/5mSiupM81etGjsPZIxrhey8g7xSdwynLhcxSeZ3EF4eUg12+o/Fc3id12Z+nzw0dtlsp9OTBcxzud/Bfqo6xy3UZx+ePx7/NzP/Su87AAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Libourne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-libourne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWQY6EIBBFy7hwyQ30Ih25lgsTTGbhtZx4EfsGLFkYav5HnaSTXgm66IZnAvLrVxUiXx6nqjKIGNVf9Q1mIYth2plgNyzdd9IsIpnMxU7cXvkgFfZY1T/DTHiJNJOIzkWYYGltND7GqNW8dAqxPvS7yRhLM69vH8YeL//jW5IdTx0N33648B5zGjvV9a069Z2GV2ueYIsYfjrsvflmqdLZ7jPG0g92M9DlPFBxhnMgJ3duB4/T7HlM3EI54O8fDmyU8mxwuhmFtRlfaEXhchitrYrlG5yFMyPlGfb1lycpmM9ko005k/xnQr2ZB1gdj+RRBBpatdQqgzU7SrXAfzrxZ2HOFGfIIz+8rpqtb5/HZKygy55qNvx3alWWuakXDFGqa8R3TlrlsIGxpP+C9Gy4KfdLM3gS9S+iHVh4HB+QyTh09B/ynHuk3lOWpVTkX6iR9xNFy2JH32I92e2GXnvU07KM/VeSJ90vcrO++vltxjuIwn8pz0+tHmErUwh3kGBVCzDeQdIe896KlGfpngPJw4hL5XB68j677jR65Lm0pjz78vwBEEhmJCIj4O4AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Limoges",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-limoges?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqElEQVRIibWWMa6DMBBEB1G49A3gIhFciwLJSCm4FoiLkBu4dIHYP7sJX4qUKnaoNo/CYXZ21sCHJ4gI3CbiZJXo+CtlsQFo/by0LLsWbgEyWThboD49UPGMTeJvmJftIW4CZC7C9GO8yPkzplqlftcevun3JdNe+nl7xDR2bMJ/f0uyp+GOKia+fTPhdyzISa/cADd1WjS+PBvCuqvk9Ljs0S2VejyDYew5M/Q4xg4vI5Zm7qBXpsvjKloeG9jCGOhxuetw9ifKMycL4mCFcC4X+JTFUK+0XL+zrMwvqlVhFu6neVJSbf5WrXLYoOVE/wn951O9+/IsUCuZao3rE9Sq8SmLOX6Cn9Ay/yiOLI35rzTrd5Htymx5xDw21LYD6D896NKqMBv592eNVk3C2bTKYoH+Y4x49tIWwTObyrKa60U0Y8FQARudy1b2UvOUc27LKxVnNorqyRSWV5HFbG9ZG9FreJ8exZnuX41qJA0VniuZ7LqD2Jy/tPoJU09qo1Nvd71cpnkqh94PjgYoz+yeczNP7pqGMY897zRckHJYQxtfnn14/gCRLFSHoDat3gAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28688,
+    "magasin": "Cuisines AvivA Lons-le-Saunier",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lons-le-saunier?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWMa6DMBBEF1FQ+gbhIhFciyKSLaXItYhyEecGLl0g5s84/0eKlOrbUCDrUSw7O7trsy+PB2DDA2nAXS8gV7HFbHS3dYTZNNqwmlUyv49m/TOZdYzBYMcwhwf/P5jh1oQxmS4B+2FMWuVZktuHfv9kqqW7PZ4pXyYW4V3fluxluK1D5tcPE/6Peewj8nnEECYdTu4Adt2NeVB3IKZh7ZRbBVOrQB5HmJhCvzNGa+avq45PFI9TtFTHlsvMo/r8ykB53q0987jHX4+DH1ZzuYopBm0X3RC64hdnzRnHFNtxY/v44m9pVcX6O1w4n0z+c7mP7gBmXeSRI6TfjVqdXK5iw5WSU3tgm6PDqp5pzRaPaP7xlEzaMxreNUy6ILBVsBn999aqJWMKMf15kg0qrarYhbZbKEmmcRwXQfFkY6b6MgceZ3qcha5kve4HZOpzxdDuacxKK6LMWPZ9kDmrWNlb0FiyOXLXlnnamC1l7TKu+WIcLbQqpjtI4MyG+ly6HMQkWfbUi5eH1IK9/Mf7wfbq88as3Cd1Z6D2ck+qY6WW4WzyoAp6cu3Zl+cHR3xWj22eSbcAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28757,
+    "magasin": "Cuisines AvivA Lorient",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lorient?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsUlEQVRIibWWMY7DIBBFv0VByQ3ii0TmWi4iYSmFr2XLFyE3cEmBPPsHZ6ONlGohrpyXAjPz5gPw4QkiAruJWFllt/yVqtgI9G5eer4OPewCVLJw9IA5HNBxjU327zAn20PsBMjchOlmnMjxNaa1Sj5qD9/q90+mvXTz9tjTbWATXv1tyU7hcrcn/vsm4f9YkIOuXAE7Dfpyce2ZnXzkPtRxibtdOu6jhiHQb3Wca+ApYmtm72uU6ddxLVodC9lLcVzuOpz+QHs2wsdTESOcywUuVTH1j5EUneSu+OLQnHEuOY78rU7yA7RWNSzcV+ZpZo7QP5dMdO2ZzdQkbLqXA6zVhbWqYYDXkveCG2WXRWemOTNr/JPZ8tgrGfOUMUr/JtC/UpfWbAwc+aDRqv2dS62qmOEZoP7xbCwHga7Rmt06xpRmLJugw7TXMs/PzxoqS18Or9SclVGcuJzIcr7UsfPcon/C8GZTj+fst2RjOXY3fn5YyY0eaFVM7yCTUf+GV62+wbRkyTC4ki93vVomp3+8H+QL0J7pPWe60klmCY0vTlaw0kvRPM0657i49uzD8wOQtGjvtMAeSwAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28697,
+    "magasin": "Cuisines AvivA Lozanne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lozanne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWT8qDMBTER1xkmRvoRUq9lgtBoQuvZfEi9gZZZiG+byZtPyh01cSAEH9ZGOfN+wN8WaOZwa1mzu4WHN9iFuuB1s9Ly+21hVuATDYeLVAfHqj4jdXCOczb+jA3ATYXYfoZb3acxqRV7DbF8EO/H5li6ef1EeJwZRD+41uSPQ23VyHy9MOEv7HRDnrlArjpqk3jT2BTt4Wnx42bpdK/ZTDZLnmc38DLiKVZn9R5e1yiZbLauKXH7abk7A6cwrYkj7vxkJ70MYthUC2xzdteJb9Iq8Js3JWTfJcneQFplcOcLW1wPDD6z8d68+VZj2rj1gLGA9SqkX4ZTDnj+R3D0FGc5Z1HRRlLK/PoXbPtEfIYJZEc9N8E+u+pVWE23uhqlVbTmp9aZbDUA5z8xzxXI1AsS7Oh2kJ/YY0dOnpcgc5j6Hj/XXm5tKl5xeIspaKxJZox76davTGHpb4VGUZj8WavPTyKsz613ZXXH+/ktRpaFtMMMqueKs9fWp3BJFlk7rNmp1kvl6meatbz894A5Vmac+RJcNjpX578naVYyn98NKQ2vjz7sv4AlOVRITsVoy0AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28735,
+    "magasin": "Cuisines AvivA Lunel",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lunel?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABq0lEQVRIibWWPa6DMBCEF7lw6RvARaJwLQokI6XgWkRcxNyA0gVi3qyBSJFehR1Xzkex8ezsj8g/xwMQOwMWb6yWv2IW60QaN04Nr89G7CSSyfzeiJjdiVSMMWP9DXOYF9hBBGMRpo9xwP4zplrFNmgOv/S7yTSXbpyXNfZPJuGT35LsMNxWrZFfv0x4j3ns9MqDug9PvdSuPLMvBLUJxOhlqviOLEYlcHpcTiOWZv41iRsuj6toeazzbxwef2mgdpfyzOMdTo+Ddck/EbNY19PjAz1uhyr5hQ8qzgzLMT4OTzIBSasMxhbSrHbTC2smmuDKM7/xDV496XehVrXql8E6w9bfSUNN2uAw1UmXsowJDsB89WwsayYztN1gFoAC4dClNPMby5GevAr00O8+U114gtM610FwalWU9ZScnkTsW+pvsGYzSKf9FFOThlcszlIp6ki0R+PS2ZjD0tzSNFoWO2dt6qeFmc7fo1VrEhj33JtuM91BOGuhc+vK5S8YdFVIjav9xM1i9F+KMW61SHmmew50Z2AvoeOTJzNYyqXuBzbVudSuPPvn/AH5cUVowuuwPQAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28741,
+    "magasin": "Cuisines AvivA Lyon centre-ville",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lyon-centre-ville?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWTYqEMBCFn2SRZW6gF2n0Wi4EhVl4LRsvYt8gy1pIal7FYaChV53oSj/BMq9e/QAfrllV4fcE1adGzycpYiPQhXVrFOg7+A0oZHPqAHcEQcMYu8Z7WFDe+gXQtQqzw1CXdBszrWR4UXK86fcls1yGdX9FmXom4T+/NdlluJP55ds3E37HZk2dyqOFX/p8E+qzcRoOmE30R4/oaU4pYpgG1XXrFFPPI7jEGLXZvDAuHLU3j1O0WMwo+84c/jCQDAn12eiejIsmkrKYNrBAS5jFyLbTpcl+uXSpyka3sSTpSXHZ36ZVEbNesp5dNP8FYZO6gU38dXEJnr2EWrWmXwmDfRoddRmOoFuumcqMHj/Y9tivJuvZ+oqFzKwN6u5PBrp0qc1YOYfqdnmSBWpalTB63B7s0z0CB0H2X21GT8rDDsQC5YFiKbP94GyD1bnFsNlTmeVStPkrM+t+cTYbS1ieWwsT6s9snNxPKzObv+x/9KQlgXH/9qav2bWDpKBW56YLbmL0pMzcQWTQWIGtl/+sSbXhBpb3ydPWGw618fJkAcu5FJvpi9U52lCffbh+AVszZCZO6tNoAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 29591,
+    "magasin": "Cuisines AvivA Manosque",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-manosque?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsUlEQVRIibWWMa6DMBBEF7mg9A3wRSK4lotIRkrBtRxxEXIDly6Q988u8KVIqWLHRQQPCZPx7OwSfViBmckTWeYnpx53uYrh1tk8bXj16KiPRJUsFEdh71KmDnusnH7DbL4R9TMRL00Y4dXcc/kZE62W6Bhiven3JZOztMv6Svk+4uH/+bZkxzLFkmF+c+F3LHBxzOuLeR4d59tg2zMfII8/dttSHzvxeA27w3Z+2ix0Of9Qc9Y/Impyl+3wUMxex8IjuuThccYF56lQe4b02NTaEiPQimyuYw9EUsDr+7lTv6gubVmYJxzrCsmD+lu1qmCyh83m8B8uNtueeQMriicZWQKtBmhVx6Ijgv94lp+oNdOY6fK3K7P5leqYlwgJu2Y2/Hfp0paF05MZD3k5tKphiFES//E+SsM9ar8xQ14hswvawQSPG06VDJeH/1Dnsof2nrZMS3GRFmbwAbOR3ljDtG8hT5CnkxxCsdSceW27MoOYJ2rTXP38ayYzyAL/aZ2fWv2CZTlWgxkkTzrr1TItF5L5YB+kTFsznSfREuHJTao01bFrpuGjzmmw7dmH9QdefVE3lmDM7gAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28942,
+    "magasin": "Cuisines AvivA Marquette Lez Lille",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-marquette-lez-lille?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWMY6EMAxFP0pBmRvARUZwLYqRgrQF1wJxEbhBSgoU77fZWe1KU01CqvBGSsbf33aANyuICOo1QWSRWPPryGID0Ppphge6FvUMZLKQWsDtPLriHavEe5gXbusRkKkIYzANdUm3MdXq6DUO/NPvQ6a59NO6x+PZMQm/+S3JLsOd8Iejcf6a8DMWJLVyPFpq3+mm8eVZPVYbJU/66xbruWIcecysXQmeHUNwye4oy8LZb350G7/p8XBWMZfx+EDbyddMXfqE8mx4grnlRvNLrfQji7Fm4kCPi17GRV1Ks/rsoBLJEczfqlUeq8Rsp0ml0TdfniGwhYyOLcQlUKtGhctgg1v077f0H40js9ZMaRa07cn66tmyx1y2MIXOejb9Z7qUZgMlYqOtonpSph+tMpiOxKFXbTp4DgK9ozRjm8Lw0DbVXwFlMs2laEmyzvUOHMWZleLVY1n3Zs4sZnOL81zjsObtUZzp/L3eIBrQaAMti9kbhK3U6vyVyxvY2O9W++zZV85zGa63np/Oxt/A9J0jOg7YS+geuzeDXW8aHi1W52h8efZmfQP6ZUxrnYz64gAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28706,
+    "magasin": "Cuisines AvivA Mayenne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-mayenne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWMY6DMBREP6Jw+W8QLhLBtSiQbGkLrkXERcgNXLpAzM43m+yulCp2kCLBS2F5PDP+Ii8eD0DcCjjcEB2/UhEbRTqdl46vfSduESlk/uhE2kNFGq6xIn6GKdY7XBDBXIXZZhQ4PsZMqzRsdob/9HuT2VnqvN5jmnoewvN8a7LTcHsTU0vj/DXhe8zjoFeuIi709nLRD7BAnczj/HeLbmlsbwXMfd0A87hMvfwYsTbzuG3x6XETrYzJ1PD86HF8WTiHQ+ozz/gof9wQmMtFNBWxnMsZmyYuZmtyQ7WZtIyO23msbfZ31qqEeavRnT1C/2lqN63PHD2J0CKKP4RaXahVCfP0HwuF/pNhUyw5M5XZKM3GLnl0Nu6xjPnQgHLQf4ELnbrUZ2KLU3t75lOrAjayUDWYJKHPF0H2ZGXGCkG4smOngfrbQZcxu7f8brlcunx5peosR5EZigBzb+YsY/neAmsJZvbTOLWZ3b9W1ZIYUAsUCtljBsk5/9WqPrNRgdlnZ+dZr5RxBlGb9XTeLyL1mc05sJmBXSLj6ckCds401qe75VwuWp+9eL4Bx9lKfEzN1dIAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28728,
+    "magasin": "Cuisines AvivA Melun",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-melun?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABoUlEQVRIibWWMY6FMAxEjShS5gbkIl9wLQqkIG3BtYK4SLhBSgqEd2yWv7vSr0igCg+JKOPxOEQfHs/MZBZmwzMng7cti/VEzk7BYdk6MoEok/nDEdWHJaqwx8LpGWZ5WdmMRDwVYXIYy3w8xkSrrYtSw3/63WRSSzsta9qGFkV417ckOw23V2mrYZy/JrzHPB/wygu6j60sGvsII7EJYxWTCZWe7T7rh4ovj9OPEYszquKvx0W0POb3jk+Pf8lG3UHlmRlbsqN6nNGXgeyWyaDL6fFK/WKpOOsHSN6/4Emv/lb9MpgfpVV2FQMNWkf7ANtxhl56qBZzhgZa5bHWYemgSRctB+2Zwqz3QfroymxeUx4zu0b/yjwS/Ke6lGa9n6NGnoxFnlSrLKaxJ5KI2TEIZI/SDJ5Mcpht6PCx5pTLRBf4jzk4HV5bcaatOGI7ZMm5yGM6t/B7zPMuYtYeloozmb9nxtYzPFNf96bbTO4gk/qvdVctn2AsVwX0PjL7vW8WY/WfhFRDVJ7pPUcyls7gSnnsrKXmqfQ5NbY8+/B8A5RlLbMO1yjuAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Metz",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-metz?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABqklEQVRIibWWPY6DMBBGB7lw6RvgiyC4FkUkI1FwLSIuAjdw6QJ59pvJz+5KqbBjKUp4kbD8zfPYRB9GYGYaiRzznaPFUypiePQuDTte3XuyK1EhC9lTOJuYqMEcG8fvMJc6Ip7wWaowwqvZcv4ak6yW1SNy+pffRSa1dMt2xHTr8ee7vjXZY5jsyECcv+MaC5w983awnXospmtdfUa3ntTxFHiPdm1kHQXMTr+OPxdUnY2YzvHLcZG9kIkmozg+izRDpvoM60AfgeNSX2SF0MrY2TAFdbxRXySr2mzG1gkbIg/qt2RVwgLiwD5/+OeS2V19RjTsUXv2nAlZtS4VMXsOzBP8ww+Is7aaVW3WYN4OTt6kZ/MRC5loN3XyJ6GgmkttFsTJCT7aGfVdNKsSNpo7a89GLeXA1X1em0kLUSdpgOOGYyELd9TSHCz7XObQ87wu062oX2bV0GIZ03MriXqQEGdtdlSdaf+ThpKMLuh1nl9mcgdZTrmD9P5Vy28wmU7vIGnQu14xI//oTcvZEtVnep/UIxENZXx6ep1pLeV+wDJRotbVZx/GDxAREI/GYyhwAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28738,
+    "magasin": "Cuisines AvivA Montelimar",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-montelimar?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtUlEQVRIibWWQYrrMBBEy2ihpW4QXyQk1/IiIMMsci0HX8S5gZZaBNVUS/8PDMwqUgQ24hncqLuq1cAfK5LEgil5PqgXmbvYAswhX4+QcZnhN6CTxTIjviA2KcbO9BkW8hngquc+hMHvBZ7lY8xydd9mqoa/8vcms1qG+/5M+XbRx5/6jmRtuRLgyF8qfI9Flpncn+R6mZnPpzCeLbfpsIRBJziS3ybTeAfzX2RapHHF+Heg4QyKS76mVDUetelkuKp8Zwsm0eRrwXimc+gMkrZyJV9uZtAuxm3WVvVcp6oXy9VgBkxHWlxBjlXfLVfvM69fh9U1/YXsjjCeRW5I1fKKrc0p5C7mX5ir/jJMhJt5ZjRbtMVyliZv1rP5TH0sflkLaT1b+mt5GczUsyVDx1Q74b3mqou5BxFrz74gkObz4ewGJLWQalD1EqZO5vT/qj/53GLY3TOYVSvm2mPl+9XZ3djD2r3Fpj/dtSVgOLP7VzOI+kh8yJstVz3MZhBqpvHmc6tl/hCrPVYzSL7WWa+X2QzS5oPXCRjPbM7hXmrupZ7/+XuX1Vpm90y++hynMJ79sb4Bvo9MX3JHNMAAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28874,
+    "magasin": "Cuisines AvivA Montigny-lès-Cormeilles",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-montigny-les-cormeilles?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABu0lEQVRIibWWPY6DMBCFB7lw6RvARRBcywWSLW3BtYhyEbiBSxeIt2+8P9qVUsUm1eRDiuM3780g8uITAIh9Hgl4IFl+y1XMiwxu3XqXZRrEbiKVLFyDiNlZdjzjiXQPc2BpowjWJoyX6QW4bmOqVZ4PSi7/9HuTaS/dyl7mZWITfvvbkn0Z7uySGBrnrwnfYwHXgDwDNk4sxt61Z3T1Tsl3ao892a3jParYKQPZAcSJVzCXntGafWxaan/p8SJaFRPDeIdtSHyoAl3SnlnwXM9Sxwi1Epcr2QOOkXSIXfFL6WVbRnV2HkWJQvG3alXDLP3n8jhoL1mY3bVn4Zx5LrXK5hJqpcO2hsnSlR3AK/AhNs1Me8Yy8u/nRWc2jlTHvMxInrnhzKb/ii6tWWAcdYRo9oGvpVbD/MK5FJlJWSaaEJrz5iw8OK9Ojc9MjxukSqY/76mN5lzPKLunLStRxMkVFpj7aHQ31rCyt8BRjTjr8L6cNGe6f8WPXAcchIhloVUxfQeh9ZLurR+t7mB57BghvoNwSSapZ1F6V2bTevbuBlbec0b1+LyL//bk+6z0MmouS86ld+3Zi88nhM9Gy8FGlpsAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28744,
+    "magasin": "Cuisines AvivA Mulhouse",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-mulhouse?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWPa6DMBCEF7mg9A3gIlG4FkUkI72CaxHlIuQGLl1EzJsxSaRIqbDjAsGHhM3s7I/ZlxUA2GjmgStiy6dUxPjY+zSs/PS5t3YxK2Rh6y08mpis4R43xN8wn05m7WSGuQozfhottp8xaTUvPSjWh34HmWLp59s9psuZL9/xrcn25TZvDvhw4TEWsPXA7Q5M5x7p1Pn6bLRh9fnoDmtslyZ7/DgLf1v2OPn5+UPVmVmzyuPIHpfZS9mAONLj+KNp0rBZfTY62lDpqDJCrYw/VMK0h59MHm+yX7xVZ890pOQh+1talbDR6dbt/vPJrb4+o18ssgAYeABq1flUxHIss88vvGDpnlrVZC0YXzuxZl9Us3GPhUxy4JFrNv2XdanNwkSZkkOE1rzrV8DGC0t1YLowlmq4yvPqTHkUbhvbwQAVrVjI1LdG+Y95rj1e/bwiy6moGCcewE9OvbGE5b4FqJ4O656g1dmY265mEHel/u7Vzw8zzSCT6mk24lur6kyjB1sMzTnkWa+UKV3w0Hzw6MzqM805E1uitFc1jGUsx1L1dM9z63x99mX9A5TXKNeuJRmkAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28726,
+    "magasin": "Cuisines AvivA Narbonne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-narbonne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWPa7DIBCE16JwyQ3si0TxtVxEwtIruBaRL2LfgJLCYt4stiJFShUIVfwhsWGY/RH5sBwAmUUs8ETs+ZWqGD9Hm6aNR99H6YNIJXN5FHd0MUnHGCvib5hNN5F+EYFvwoRHo0f+GVOtfBjBuG/6fcn0La1f95ged26+3rclO5fJVnffXPgdc8gjsO7Ach+RboNtz/q/5xbnM9oW+9DxHjVMY8g8bZa6XBdqzsQEAQ4NR4+r2euY+wsqB/1dfkxZ2rMikaO1xYB5GcSmKjabMEanHudd9Hzq0p49qfvlSRUs1jHHMvryHzc3256JTBugKe+yUKtB9atg/dIBHpvFQRMilJxpzDSF7HJjzX5ozcYeK1mR/KzZ9F/RpTl7sI9pe4EuX7SqYoa1SY/nW2rDzcV/jRlLCP9+ZjuY6HGDWMnYZ9hi6T/muca4ek9LVlLR05NqTLsY7Y01rPQtqP8Wmt2vZ41ty/Qe5wzimKBn3CqmM4g/eA/N80urn7BVU4gzSJrKrFfLLv9psEGkPStzDiVPmlDzy5PfsvKWi9lx5rkMtj37sP4B4GN/juulaLcAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28718,
+    "magasin": "Cuisines AvivA Orange",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-orange?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtElEQVRIibWWQY7DIAxFHWXBkhskF6nCtbKIRKQscq1UvQi9AUsWEZ5vyFQzUlfFRUpUXiUI3982RG+GZ2aaiSzznaPBLDUxTEebXMDS00jmIGpkPo/kzy4m6rDHg+N3mE03Il7x7CqMsDQbzl9jotV+jIx9/+n3IZNY2v3xjGmZ8Ocrvpqsjj5b6mGcv+Mz5jnjDI8nm3UaOd0Gq89mf5DFp9vUc4jm6MTjDcyfjovHzTldB1JntHShenyBx+VHG/Pb5XGzwTTJZdJnCGuA9ogtnAOtinANTDyO18g4UPGLxFKZYbdA8+VJxLZo1cSgi/iP4T+YJlh9JjYRyUhqCbQaMGli2IPIBcurvA7JGW2GdoDyekP6iCcNP2Mb89sdfavWbPivaqXM5mWi6FGqSyXci1ZNjGRpPKhN0nDz5UlVJnmUSglxLFkVWxnq6drDf8hz2UN6jzIrqbhLC5Niu/bSG1tY6Vuop5DcBfTaXPNclZVaYqTG9nfkZtWqhckdhM+S3C+tvsLgSd5wB0mu3PVaWb2DyP3gHIj0mdxz1l4+30mx/dXvU1ZjKf4reU6D1Wdvxg+MD0HOsNaltAAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28724,
+    "magasin": "Cuisines AvivA Orgeval",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-orgeval?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWMY6EMAxFP6JImRvARVZwLQqkIE3BtRhxEeYGKVMgvN+GWe1KW00CzYTXePj+/jHwzxNEBG4VcfKU6PiWstgAtH5eWh67Fm4BMlk4WqA+PFCxxirxHuZlfYmbAJmLMP0YL3LcxlSr1G9g3T/6fci0l35eXzGNHZvw09+S7DTcXsVU0zi/TfgZC3LQK1/gd3R6aHx5Rq3A72DNWrbolur0+MfMPZ5iHnd7h8uIpVlQK056HOlxFS2T7ZUg0OPy0OHsD5RnKpFMVyJRK/iUxbSFfuo3L1NlfvEozoAOtAnbWpu/Vasc5naNpF0bwGKp3vwN7HFFCMIBatWoVhlsGHvhT0tNVJzFZqYwC7Q2o/qd2fKKeQz1onLQf8w/OXUpzQb2N2oAWH/nU6s81sos6r/OLoKzRlk28khPMrN70amKmSxwLYDmKefcLq9UnNkoTiyXwnIdspjdW6KxNPYbzW55Wpjp/cu9iX+/ftIzdqFlMd1BZs1TnfO3VjcwzVjbQVJvu14244jrrufnvQHKM9snd/PkhuH0ZAazXup+ILvOORpfnv3zfAObaCy2CjEongAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28698,
+    "magasin": "Cuisines AvivA Orléans Saran",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-orleans-saran?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABvklEQVRIibWWQYqEMBBFS7JwWTfQi4i5louGCLPwWhEvkr5BlllIan7FmWYGemXSQkN8gml//V8VojeXExHqj0wiu8Qed6mKLUQjb37Ech6p90SVzOWRyDxjog57HBI/w1gO/P+VSLYmDB/TRZH8MaZaJRsY+/7T7ybTWvJ2QJfHjCK86tuSXYY7sZ2Bcf6a8B5zkuGVaSBZ57Lg9oycp2ITMhJi7zv9jgq2GPh7w7I/Z7zdZOzRmiGJQVb1+AMed2cX65hbLZbIef+l4bSZ2rNePGQvHhfk0hOnKuZgbdwF1pyrWbS+rdmXL57k4nY8iHVseVhkBqyH/ziZwO0ZJFdPZkouY+EH1a+CqS6s2hBpQ/HDj1ZNGWKPXqI20Z4tz1jH8GpheFx7NvxXdGnNnOxB8w+tUN/t0qqCLWa/JEE/JcYgKNlvzAjLNKm/LX5GYi2D5DTBf8i57lFmT1tWoqgjUdAEUASdjTWszK2kWV9twKzNTM2Zzl8UAJ50O7j5PTfdZtcZRP03F134QwxHHMxfnEGSfe1bwzb0Uzn1fHAOeNyclXPOpGPXBoh2efI+K7VcJzTRU3NOA7dnb65vC8hFfVHgMjYAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 29650,
+    "magasin": "Cuisines AvivA Oyonnax",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-oyonnax?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWMY6DMBBFP6Kg9A3gIhFciwLJSBRcC8RFnBu4dIGY/TNE0a60VexQOa9xPPPm28A/nxcRNIdII7vEhr9SFhuBzq1bx2XfodmATOavDqgvB1Tc45D4HebkeEozA7IWYXoYJ3J9jWmt0hDAff/U70OmvXTr8Yxp6tmEd39Lslu4s4qppji/JfyMebnoygM8R6+L1pVno98Dz0HHFwmx2Sp1PINhGqgdHcfU4yViacb+Ir4d16Jls07UcVl0OIcL5ZmXPURtqsYIDwSXslhzootegpO5Ml94oOJs7s1JUSfZW61VDvOL/v2TOUL/XKqDK8/gtVa1xvUF1qplrXKYX3ZxjBHm38DibDZHhRl1ZMEOOjlpZssz5rERg2Cs6Z9udNelNGPtg4WU6Le+avU50ztAVvOvt4vAsqk0kyDzgxnLUIE2OpNRbWd5yjm3yysVZzaKnKGYPOd+1kUWu+8tjaVpCLxrL4fiTPNPnUSqdzpjF1oW0zfIqnmqc/6q1TfYrE4ufIOkwd562Ywjfr8PzhYoz+w9eZqTQe2Jecx6KZqnp845Wlee/fP9AHZvVang0YvQAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28727,
+    "magasin": "Cuisines AvivA Paris 13",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-paris-13?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWMY6DMBBFP3JB6Rvgi0RwLYpIRtqCaznKRcgNXLpAzP6xk9VGShUbV+YhYTzz/8wAH5YXEcyAFblJ7PmUqhgfnU3Txk+PDn0AKpk/HPzexYSOZ9wlnsNsugD9AsjahIGfFpjjNKaxWoMTXPEWvy+Z5tKu90dM15Ev//LbkpVlDqtv31T4HfNyOJH7Q2QZnaTLYM9gAeXXvWyxD12+2/esz56ZNsu4PC/Unu3cUuOSNa5ir2P+J2g4qO+8mQ60Z7O/bdFT2jBCXwbYVMdMoC/hpOddNAWMS2vW79NGvRRNasBiJVvgeI+iP5vMZk9g1GT0tLzIAcZqsKmKwdz4/6L6owglqGeaM54py+VVs+UR6xjv4SJKzab+XnFpyjzza3OppiZlzbGqYXO2I+0iNCgbrvq8OdPczuwxCRM1bmioSsZ6uqr+GCA949nPW7JsRbZeapK+X4z2xhqW+1bWH2jQVQ3anGn/ZQGgJlXs5dwqpjPIovV0H//Hqjlbc43lDJKmPOtVMy3/eT7YB6A90zmHNZZbDpVz0WQFK7lU/e3qcwy2PfuwfgHe7XdAvC0C6AAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 29372,
+    "magasin": "Cuisines AvivA Pau",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-pau?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABZElEQVRIib2WsY3DMAxFKaRwqRG0ibyYcErgxexNPIJKFUZ4/9PnQwKkpEIXhp4Kmt/8okQ+RFXVdtND+qxPW3V3VkRCq03SpE1sNYAl3dqtFdFnfDSuBrGCoqaNeccxiUeSHLUNYqaf3kU3RW0vmvox64MSl71n6PfSG47Mwnotvze1I0OmDURSD5CR6f0ZmmyNSjqjyKqnpuOZ0KS0EHwUuGXhzBIMpPTRiia5Wb3erO4y06umKQJb7gy15Xhgy0os6U8/X4aE1hs4OdGIu+V1ZjzQaFgG9FPJ/gwJMQMaX9i8vsWXVfjfDjT2M2LaujsrHDCsjXMGXp2onzcTKFZ1YVGVvsxfYpgEuuDpwU7TSbs7syh4YNJgv8+f2VxAbfbifFvFndl8sx+GGw3ynp/hzDin69njD+q3DmIl2gwwH/3fQbzZ1eNmWH9G/Uq8C1oi6DVDfdl53zjvZj9crd9hH+IXgwaDYIQw9FkAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28698,
+    "magasin": "Cuisines AvivA Perpignan",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-perpignan?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABpUlEQVRIibWWMY6EMAxFPaJI6RsMF1nBtaZACtIUXCuIizA3SJkCxftt2FmNNBUJqeBRmHx//4Toy/IiQm7J7GSW6PCWitiDqOUptELUteQCUSHzuSVqMhPdUGOReA1jWV4iI5FMVZhuRutcxlSr1K+cBvrQ7yTTXvK0vGIaOjTh3d+abDfcdpOErx8mPMe85FbSD3QfO324c33mxm6XHF/X6AJ+oIxpjcPjdBixPpvX+PY4RItlTP0n5vEnCqU+U32m1raVGsFcBuJUxLwEWFtWFnhGv1l/6zIngQTvUT2J3u76nWf+qVmymekwoM3KV7BwRAhEg1Z31aqAObSQRds4IFAk2MzUZxT9kikNmtnyimXMj9rCxjIbhXZdKrNHM68WraJrMq2KGKI6qv+Qp8QiOqDVmc6RU09SrxuSWMj8jP+H/8SaKtnO87rMRnHUcj7sD2XMzi31nxv7FWbPTNWZnr8mWGqwIdQ97k2n2XEHiTbnf1pdwcyTuIOk/r9uAZs0T7XGtN2Pc6Eq03uO5TWyBKKZJwvYfqfZiJ3NOd25PvuyfgGfRV7MfJo0EAAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Poitiers",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-poitiers?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWPa6DMBCEB7mg9A3gIhFciyISSCm4FlEuQm7g0gVi34x5iRQpVWzcJHxIXjye/QG+rNHMMADe7G6h5lPMYnxsfexXbt21qBcgk417i3GrQkTFGA8L5zAfL0A9ATYXYeDWBrefxqTVvLSGKz70+5HpLv38eIZ47fjyfb8l2bHc7vX2w4W/sdH21uzxNJu61uKl8SewrYPXp9Pea6iXSmfLYPVGyYd+9Yzxf6DiTMvbpnD0uMyex4ZxYQx63G40Tex3lGeMtKZ0VBmhVhIuhx0xII9XyS8exRm1RxgkuUv+llZ5rDI/ucN/PrrVl2fjzVablfKsJdSqkX4ZrNbWtDf/yoSLcqY0w7ikw7CWqGbbM+SxccK7ZtN/hy6FGf0C1hILpjUnrbIYeks1m/VUDVd5XpwxLvNoZzvo6XFnIZfJ2vIf81wxUj8vy1Iq6ifyA2h29cYclvrW1B/+Y6/dPYoz9V/gQk+6O3PTvfr5z0wzyKR6eiTPjpNY1LVqBol9mvVymdLFNs0HW5P6QmGW5knGxJVD5XB4MoO9ZhrqrjxH48uzL+sPCy0zXD623k8AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28759,
+    "magasin": "Cuisines AvivA PONTARLIER",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-pontarlier?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABt0lEQVRIibWWQY6DMAxFP8oiy9yAXKSCa7FAClIXXAvERegNsswC4fkOnZEqzaoJkVrRx8KN/b9t4J8TRAQDmmhlFX6JpCI2AN6lfncJnYddgEIWTo9wgKxhjE3iPcylByATP3MVBrudgDlvY5qrefGCER/5+5JpLd28vWIaO778q29Ndh1zOn37ocLvWJDTi2wvkanzkh6tq8/s0SH/dd5gj3Zp+KOE8QoeAzXOGO8LVWd26neRo4lZ44EPZSwcvcSBGrdPiib1J25gz3XPdmSu6MtFDVrEWEIKnfWcmqwXrW9lNoxaX3oyhaxvzVUJ07wgvPXnktldfUbvIwa1PGMzV61LRSw8tZ+K9mwV4ZJ9VJtN+qiaHLVnyyuWMfrSZ/2xZ1N/OS+12YCOuaImcyec3/krYIZWuXp2ByeiPq/Oxl59pHakcGAkFjKzipsM9UefawydPZVZtiJHLzVJ309GZ2MJy3OL7ZqaYSOct9OhOtP5S3NyHISV3rxyVcJ0B5m501j1udYy3cOS0R7LHST1edcrZdku0P3gaIH6LO+TOhIpTqrnN3/fsquW3GnsFah19dk/5wdWalVEAO+kRQAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28882,
+    "magasin": "Cuisines AvivA Rennes Saint-Gregoire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rennes-saint-gregoire?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWQYqEMBBFv2SRZW6gF2n0Wi4aDMzCa9l4kXiDLLOQ1PxK9ww09KoTBUFfwDJVv34F+HAtIgK7B4g8JFq+pSo2A4Nbt06AcYDdgEq25AEwRwQ6xtglXsOc7Px/D8jahOlmkEy+jGmu0sS4J97y9yXTWrp1P2K6jyzCf31bsqfgzi4mrr6J8Du2SB4k3QaxftSH3rVn1k+BMslgXD5QnKmS8dPrxs9j5BZMLjFasyk4bw4yalyTVsdUL3Gh7OyPBpoy2jONy5g91EaYK7hUxWC2gZYUnPVd0YtDc7b8PALmG8u6FH1rrqrYOTIvol7CnkkmuPaMvx+i+p9IBnPVl/xVsJMymSm7IhzZSs80Zosf1fYC0l09W9S8q9g5qUxYTw/q75Wrtmy+UyIiAaW+a8lVFTM6a4uFjLqofd6cqa5tmb8TbyOxkpmHMDnsS/a5xtDZ05iVVtS2T4Z9743OxhpW5laZ5ydNZd2zQ3Om/sdz0yHghoRxX+emr5meQRKlZ9nwf7W8gq0cB5p2enapby2T59zSxd5dwMo556bWOgVVfKxjz1oWP9U+R+/asw/XL6XOakbLjtqPAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Roanne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-roanne?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWTaqEMBCES7LIMjfQi4hey4UQYRZeS/EieoMssxD7VceHMDCrSSYg6Cf4U13VHeDD8iKCAXAiqwTLq5jFeNm42O98dNfALkAm81cDf1YhouI7Ngm/YS62gEw85iIMfLTAXD9jqtW8NCIn3vT7kmkt3bwdIY4dbz71LcnuZS6nd99c+B3zcvEftkPs1DUS29qVZ/bsdxeTx2UPdqn4HzlsGCtmhh7nO/5/qDjD2CE8HteTTKanAz1uXzRN7C+UZ17WnX5hbVlfagUXs5g9tYRoBCoQV6plYaZlHVRyk/ytWmWxCU2AOUToPxfN7sozr56URT/gArWqVb8MZl9s/VA+pZspM4WZ1jegZXxG7dlyhFzGnM9n6tks6q1LafZiq5btHosy3/plsCHFkXHRnLOhpOyXZn7d4Teejj09bliITKbxVv8x5/qONM/LshRFjl5Ez9xPRmdjDktzK6a+3e+ctZdDcabzF0PLHmtWZvPWKofpHkT9p03q0eoXjJ4UNWfs014vl4nuQbQ3zWcNlGdpn7Pp53NADo9+37JUyyn1U805aleefVh/7T5h/3L3cS0AAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28722,
+    "magasin": "Cuisines AvivA Rodez",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rodez?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWMa6DMBBEF7lw6RvARSK4FkUkI6XgWo64iLmBSxeI/bMbyFekVNihMi8SG8/OrE305fHMTHZhtvzkZPGWi9hI1Lk5dFj2HdlAVMj83hGZ3RE1qLFw+g1zvKxsJyKeqzDZjMtm/xkTrfIQyW70od9FJr1087KmfO/RhHd/a7KX4bYmZfz6YcJrzPMOr9yg+9TLonX1GWwSD49zTDY0uo/rzE9iO3gcNegwYm02moAtnB4X0cqYf5wef0g4h53qM0LdpB5Hf7EhLIrYCNslgsdlH/J90aUyI79TotvLk+itaFXCdJZM8J+F/xD26Oozvw0xjQYZkj9gQwutypiOkA6aDNFx0BxVZghm/Pek5TWVMa1BZkVmCP47dKnNkH2P0Wof6O98aHWdjfcGa4YkW0+OWXNenWGZbxhT9wH6G06FTCXfME85dFJDz566TKOYUQ6zhNxk5GwsYXpuSRvtNESctTpjKzM5f1+j2jzhGXPemy4zzbn6r+/OXv6CsVwV5A6Sh3fdIib+kxrz1hLVZ3LPYbkzyOAeD09eZ9rLrPNUck6tq8++PH/N8yDPnEso2gAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28732,
+    "magasin": "Cuisines AvivA Rosny / Domus",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rosny-domus?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWQcqDMBCFR7JwmRvUixS9lgshgS68lqUXiTfIMgvJ/O/Fn0Khqya6EPmETn3vzUxEvlxOVaV/aez1yZtqqmKzyGDXrVORcZB+E6lkLg8iZgfrUAPFrmFWX9mqF9G1CcPHdDGZfBmjVmkKVg/50O9HRi/t+tpjWkaY8Pa3JTsDd6Ac3n6E8DfmNA+a7iK9H/lws+3ZvEwBGYfuqiH2CGeqY/ASj4OqH/EJJrNGYyZuE+uRlcSMu6OLdQzfocj4rvpAoTRlac+cPgODKcko+hJ/IlWxEsAz413Ji5XmrH+gdfqDfVnyTa1qGLQfrEf+4CUa1AR7ATMaeMO4zgKtbtSqgs3mnT+Ks5WeacxOrdBHsnBm6x7rGL0EQ/68IH//WrVlTjdKBO0f8HctWtWwGTHBi2AxT8Wqlt5vzZYu2PXgmJq0GF3JDHftnT+PIKKGpOastCJ6KIJxcHE31rCytxJtlClg12YrzRn3LzOJ2k9khk7UMZ5BvNkj91bxMl3DKFly2GdpUm3AVuZPeD44biLtGc85/o4Zy0U8n5msYOeZ5uD5oBh6s+3Zl+sPUUlHgyNn/zMAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Rouen",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rouen?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWMa7DIBBEx6Kg5Ab2RSL7Wiki2VKKXIvIF7FvQElhsX8Wx9GPlCpgV/ASCTE7Owvw5RtFBHYWsfKUYLmLRewKdO7hOy77DtYDhWxMHWCSAxqeMUs4hzmZV7ETII8qTC/jokmnMdUqDgvshg/9fmRaS/eY1xBvPYvwrm9Nthtua0Lkrx8m/I2NkuiVC3Wfel20rj6z9+fy8rgswfqG9yhhuDUi6nGegZcRqzN+bjo8rqKVMsqRPX7X5hwSzmDq7+xxYV/6vClgV5M6RtICvUf+A05g/uVJk/2tWhUxlRz0n6X/eJnF1Wfj3atN2ENjArVqqVUJy/6L6KjJsDjx7eHJiozagxl7ZLasoYyp/xj9K3uGB+261GZXw5Zn0ELHIhu0zZ4sYJwB3FAS9rkT0QtVZ+pJXBhTt0G00KGQafTLxjwV3+kZOnsqs733eRyzRINLZ2MJ2+cWY8lOw8JZmxyqM52/nAtcmic9Y453089M3yDRqP/67l99qzNhjfMbJA7vc0tYHLL/+D7YWqA+03fOdGHGMku0q0IZy7WMOU+1z9G6+uzL9weljA6klA6TegAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28736,
+    "magasin": "Cuisines AvivA ROUTE DE VANNES",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-route-de-vannes?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWMa6DMBBEF7lw6RvARVC4FgUSllJwLaJchNzApQvE/pkl+lKkVLGhiMhDYs3szNoiX65ZVcU/NXl98Ec1F7FRpAvL2uH21olfRQrZfHQi7pVEGtRAsWtY0CfWH0V0qcLwMU3K7riMUas8oO4uH/r9yNjLsDxfKU83NOG/vzXZabi90YynHyb8jc16wCt9pz7eeNOG+szfdYPHobvqlvyKBRQxccfpcdQQ/gtyAXts5vFMj0O0VMYYb1Xm/M5wDofUZzOWH6J5XPFglZDLGHqZxmELzDnN8u5vVYbIp7FHfJz5m1qVMJkGvLpvhf4L2bFYdTabJ9VmCbRqoVUJGyfIMZu1IY6uzEx1Bk+m0b1UJs5s5fAuYR5jBGP0CD4K/Ge61GYjJMLy4UlOwuXUqox1IZr/YHbV46xRl03NloSeFBrHaSpktvydr1871rD9vC6zKEbui7ryhntjCbN9y9oI/1lTpTrj/mujOjsMQtTVQsYzSMTMtpxTl4sYZMIXQS8cHlIFtugWeNYLy245r814zok9Zsk0bHC81S1gZy97eedc2lCffbn+ADlmLjps+8SvAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28669,
+    "magasin": "Cuisines AvivA Rueil-Malmaison",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rueil-malmaison?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsklEQVRIibWWQcqDMBCFR7JwmRuYi4heqwtBoQuvZelF7A2yzELy/jcj/FDoykShrf0sTPPem0xEflwzAGnfiC1e+gakIvYQCX7dAkSGIO0mUsjmHETcJyZpWIPF7mEeuo5FBGsVxsU0Mbl8G1Ot0kjND/nS7yJTL/36pi7TQBP+/a3JzsAdXAeffoXwGpuRA1IfqP2gN52vz0TGnRnPkhz22G6NreM6e0waO2Y8ycAfuMwatdn8xI6FGRfNuIpWxsxMZhx4aqExS302HyJa0/zlgsSnMvZk/tK4e+1zrXnqUplloUS8dZbvU7/rjO4Fv/SdaP58cruvzx6MSWTNCPAPtFvnUxFrjwYeGu2J4mDTnqnNmJcdyX1gmWzxiYWMPcO9KXvu2czfqVVl9mDLc5Y1UaOO9dSvhDHaHtD8DcIb6/3abGKsU8/XNFIvGl3KRn70NBVb0Bo6eyoza0Wbi2DfL05nYwmzuQU7g4w71FSpznT+0uTM2i9ws9WBVsT0DMKM29wyXW5ilEn0K/ds87eULbaf6vng6PwNzM6TR2Paa1fFMmZeLsz42efS+frsx/UH055KdzFUMqoAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28887,
+    "magasin": "Cuisines AvivA Saint-Bonnet-de-Mure",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-bonnet-de-mure?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABuUlEQVRIibWWMY7DIBBFx6Kg5Ab2RSJzLQpLIG3haxH5IvYNKCksZv+Q3WhXSmUwTcijQP7z5w9EH5ZnZnI0kuYnJ41/uYk5oslke2A7T6QjUSPzZSJ/DmAD7tg43cNMfkysAxGvXRjprVBW5TYmWq1xYH3SP/0uMqmlWbcj5WXG4bu+PdlrKdRXwTh/1zXmuUzMG0P7eeL8GE1/5iB5cjSk7HlPOopxWhhBDnLi8WWWDyq4ozfzAdu3x7FJbcyR5eQeU9JfEbrYQjewxe7w+FFjBFqRyU1Mh4HxgxIuQ/ULdOnNyBcyQe1GPCmCpTbm0Y5G/MfwHw52cwPjJ+7E/cwwp46jyU3MQQ4T4D8Odjcca8/0Zh4lZfHkIpnNR2pj+oQcwRaDzIb/qi69mfSRqVEt9V1f+jUwp9AqYPAeDlGAmk2dGVnEVM1sC644NTPGeEGfc5zkjjp7+rLaiivKyhyloWQ2trA6tzLKSPggCFTztDOT+Us+Yi6oJ3yufuf5ZSZvED6hi/T5Ty3vYBLVGcGFzK71bWU1m6R51nM0NzB55wRVPbnD8S9PXmevN434r/Y5jaY/+7C+AcKKWY0ASgWPAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Saint-Brieuc",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-brieuc?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABuElEQVRIibWWTa6DIBSFj2HAkB3oRhrdlgMTTDpwWzRuxO6AIQPjfedi31/SkVAGTfu1KXLuBxfgzfAighFNFHlItPyUitgIdC4Nm0voO9gAFDJ/dPC7vm04xyrxM8ylWws7A7JUYch/bY6PMc1qCY3Ijn/5XWRaS7esz5imnl/+1LcmO4chMxTn77jGvBydyHo4mftOWARXn1lh5HQlJi9btAwtFbHRhw6jOj71uqCDc1Rn1OTXcb83sYzZe3acft8Dcxn4i+psBNewrAf0GGFWcKmI8cmFavPvpyb7ovWtzLgO8Ajh45vs9yurAhY6N5unWPrnktlcfQb/2CIPAIjoA4SWWZUw9S+qfzLrS2hfTtZkfu/hFhZAs2efecYyZu+MfL6Bc4AFfWVVl9GXLbK2+bySJWdVwka2RBH1D1wQC6BZ1WZnezl4lgyiYsZCpkcI1D9OpHPk3lOX5a04Zye572cNrYidfUv0DjJseUGozrT/wuqBYh4Ux3z388tM7yD0D3mfay0/xESvHl6b2pDvesWM/tld7wd7qz2gNsv3SW1o07DR0NPJ6yzXMtG/c5+jdfXZm/EFqk5XGYWaXtwAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 29780,
+    "magasin": "Cuisines AvivA Saint-Cyr-sur-Loire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-cyr-sur-loire?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWQaqEMBBES7JwmRuYiwzmWrMQFGbhtRzmIpkbZJmFpH91nPn8D7OaREGIT1DSVdUd4MM1iwj6R4bIXWLPp1TFroCz6+YEGB36Dahkc3aAefLTHf/xkHgOs8JlvwCyNmHczIBk8mlMa5V8sLLjX/2+ZKqlXR/PmKaRIvzq25Idhts7SYbG+WvC79gs2Um6ONZ+1MVgT2A3CWUffBtiv3W6twoGc2dmNn56GrkFky2as34fYRcT+EyPs2ixjmHeisdFbgxn8hmnsENUUoZpg01VjHFkZjxzPnXFL1qX1kyob7ocntSGEuvY1WQXr7Sd0H82mWDbMyoaStsTyYhqnFTFYCih6L1oQ1EjNmczPck5wxxN2rOFiyqm/Y+Mdaeo8qpVYzbfaMOFshZ916N+FezKOLIkahUGlAKU/zZm07vHTp4eNxIrGbxo62fZNfA0TWrOShSFZxAybVw6G2vYa27pjPGBszZbNGcvv9CKbN6ylIFWxcoZpGRmdG8tz2CL5zyfeQZJvuhby5LWf9fzwT7YE1g555RW7QO7ocQ6dmi5DzhyjsG2Zx+uHxqEPxMytmmkAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28857,
+    "magasin": "Cuisines AvivA Saint-Etienne Andrézieux",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-etienne-andrezieux?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtUlEQVRIibWWPY6DMBCFX+TCpW+AL4LgWhRIRtoi1yLKRZwbuKRAzL4ZktWutFXsuAofUga/efMD/HOSiGBCB5GbFM+nrYpNQAzbqD+HCL8ClSwdEWlHAC6McZfyGWZx/QLItQmDv2ds7vgYU62u94fIjj/6vck0l8rKNg98+ZPfluw8LofN0Ti/z3ssyRFF1lj8MkTZ+i60Z/7rljGNj8K3ufj1wnvUsLSAf40uUBe90KFxGzNaOwdZETb1eNovpY6lfYhl6qP4r5XBxgPtmd8B2iSzlwjr0j6gjo0SFvcQzBfzi+ayMcPMkhf1uDN/m34VbEr2+af/aPQc2jNmNPMysYgc4Esap4pZDNB/fhnVON0rblO2glZkm5q1Z8uj1DFqH2UZ+WjFY7q0Zklu7FV9B8vv9dSvgk2OeUxm7QGBCVBdWjNYftmm5pEed5qIKuaOqP4Tz6aqMXT2NGZWikuvxcTLLE5nYw2zuSXWqsfMWWs9tjHT+Wtawd1EzrhVzHaQ/lnnT60+wYTlsyXuIFx4rLYqme4ggO4H+1nnjdlrz1Ht6Z7Tp++zM5c7d4TX0G3P/jnfESFRexVG2JIAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28901,
+    "magasin": "Cuisines AvivA Saint-Etienne Firminy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-etienne-firminy?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtElEQVRIibWWMY6DMBBFP3JB6RvARSK4FgWSLW3BtbziIs4NXLpAzP4xympXShUbmjgvUmz+/D9j4M3jRAT9fkLkW1LPb7mKLcBotwALTCP6AFQyd46AeaaMjnvsku5hVnaR3gOyNWF8mS5lc97GVKs8n1YO/NPvQ6a1tNtOXdaJRfitb0t2Ge6AzYbG+WvCz5iTc5T8GFPvJ10Mtj3D2sXicf4aUx86fY8K5vwssulynfjv5tR9G7PFMEPePKV43B1dqmMwYYRTj38F6jKfaM8WHt96DOwlwlzyELmKgZlJmKNlEYpftJatWXkemsvi76JVBVswiwan+I9Gj7Y9c8cc2UK0Z5+gVgO1qmHQeHuj/Y/iSLgy05iZ75hgIvKqPVueqZoJPzTnoP+KLq2Z811kj5WrvtulXwVbuNSjc0mzswAl561ZgHhoL6FxYCRVMsd4b8dgewmj7lHmeVtWosgemERK49LZWMPK3FLdMy6zWzRnOn/1DiJqHPHmdW/6mOkdxOOaW69a3sE2joPsmH81ZwvGeupdz2pRb2DlPnl0RXt1fKpj151Gh0zJOQbbnr15fgCmEi6B4M7qrAAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28882,
+    "magasin": "Cuisines AvivA Saint-Genis-Pouilly",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-genis-pouilly?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABuElEQVRIibWWMY6EMAxFjVKkzA3gIiNyLQqkRKLgWiAuAjdImQLF++0drXalrSaByvNGwuT72w7RP09gZrJHIeadk8WvXMUmosGtG7lM40B2I6pkoQxE5sKrO+Q4OD3DHB/4/kjEaxOGw/SUTXmMiVbZX8w3/dHvQya1dOtxpTyPKMJPfVuyb8PdSGdgnN8m/IwFLgPn15BsHCXoXXuGkHCOQjnwmezW4RxVjLdBQ5pHHMEUydGYkdlPF82JEB4Pd5fq2GTgvyAeXzbo4gs9wAhaRRoSKPpSh0ANC9HDJv50ee7UL1Lf1mxB69ALZTXqb9GqikVpx7sX46BBtQitmZW8MvYsF4JWPbSqYWFRyQfMP4jDm/ZRYybp4Jcr0SwzmxFUsYk8yxiVmQ3/qS6tWVh2+fwuaX3Xt1afs2mGvyVPFrMzS583Z0Za5yWzRMxuOFUz7EapJ2tQZPc0ZtqKq95B8AHRyG6sYbq3ou4Yf6KoxVFzJvsXh8FuNDs8o39WMbmDyPzTPn/X8gmGO0PKAXplr/WtZbgyOZYc6927B5jcc1jXgT8hmuatYFpLxqut9jn1rj375/kCo7430v+M6hUAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28894,
+    "magasin": "Cuisines AvivA Saint-Jean-de-Védas",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-jean-de-vedas?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABtklEQVRIibWWMa6DMBBEB7lw6RuEi0T4WhRIIKXgWkRcxNzApQuL/bNO9PW/lCo2VPAsxfHM7K6BD88sIrB7gMhTouVXqmIj0Lt16wQYetgNqGTz2QPmiAkd99glXsOc7Pz/CyBrE6aHQTLnZUy1Sv4Qyfin35dMvXTrTl2mgSb8+tuSvQKX4ZJhcP6G8Ds2y9lLuvfRLoO+3NwFjLbyHEFXQ7QMZ6pjD9Vl4zmmgUcwp+7RnDEmizmkZHzOXaxjmJ/0jxm3j426+BPt2Tj5wBLqIldYl3qgKgbWTISnHFNX8uLQnNnF09s7bTUl36pVDRv503Fk7DR/DHpw7dmcfShtT+QEtbpRqxpmc5GjZ//zwcmmNdOaMdVwJZN6ICtHrGRz6U38XLjRS5fWbM6DSkRb1d/1rd/3bDS6hw5cDHA0QP1tzdCFyEyyZ3tyI7GSma20fsrOFw1Nas5KKa47m5ZsarTOxhpW5pbWZAKbChcdmjOdv7w3HQLDRriUgVbF9A6SGL1S528vr2DC8lHZ2bOLv7VM55ZkvR/km7uA6T1HZzAzGTTxsY4VLyVrP9U6x821Zx+eH6vVWyXMlT0KAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Saint-Malo",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-malo?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABuUlEQVRIibWWTYrEIBCFK7hw6Q2SizTxWi4CBmaRa6XpiyQ3cOki5M0r0zPMQK9aW8gPnxDjq1dVirwYEYAE6ZLFHbwBuYoFkcFlv7ks4yB2Falk8RwkHkLWcY0H0meYyzcRzLyWJkzs4xQx58eYarWsA+wh//R7k2ks3fLYU55GTv7GtyW7hjmdGBrn73iPRZwD8NiBeRyQb71rz2QaJVEwyRFbsmun+6hgwTCWQT3OyWtDzVnEKg5Hl4rHI1/qWJg8UqDH7RdNkz2N2JzZeRRqj0SnMC9XTdAqpv6Dfn7qil+oS3M2d1uKzMtsir9VqxoWDw+m9+U/l83m2rMwsUwxxrydQq16alXHOv4+/YdZb2tf1mjL7Bc2serJSWs29lTHgniG8KrZDOilS3NGi2ip1nqF5dKqhvH3+eDnZWSC4nxq1ZTp68wekyfdkEGqZOYOsp2yr4Ouob2nMSupqA81Jie1N9awq29BQ+g3Js9VT9sy7b9MTrYDbgjzU78KpmcQHKWIFl1c/gxbSo3lGST7ctarZaWeip4Pjl6kPdNzzlxaot/onh/93mUlltnssCXPpXft2YvxDY9aTn+ZAe2JAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28919,
+    "magasin": "Cuisines AvivA Saint-Martin-d'Hères",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-martin-dheres?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWMY7DIBBFv+WCkhuYi0T2tVxYwtIWvpajXITcgJLCYvYPzq52pVQBU+FHgTz/zx+AN8uLCMwjQOQu0fArVbEZcHbbOwFGB7MDlcxnB/RPso53PCRew6xwa1ZAtiaMP9PF1OfLmNYqTdmaA//q9yFTLe32eMa0jBThV9+W7DTcAZt6GuevCT9jXrKTdHNi1lE3g72AHVMoHk9eQjQ0Z6pic39nz+h2GfkLfeYdrZmRHXalx5N63B9drGS0iRSPf+2sy5TRnvljhN5ZYoS1otBVjMtF0ONYuuIXi/aMJY/zTfuy+FtrVcN8idFjgPqPRg/2EhZK7IlksFaD1q+CmXWSOKue6xSs7NozrdmssZc0sxfNbHnGOgbmqbwym/4rdWnN/Nc98OSl73bWr4Jpn4vGKGcjLAV49X5Ttmgf3TRLJvJeYiXzbG/qybU7vaPM87astGKZi2dw6WysYWVurWXGTIGzNls0Zzp/4TkboSKch1VM3yDbrj0zuh8tL2FsHy07M/vUt5aVqNb3wTHYC5i+c9YS1RzE8+nJCla01GfB2ecYbHv2Zn0DsaRX2trozNYAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Saint-Nazaire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-nazaire?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWTa6DMAyEB7HIMjeAi1RwrS6QgtQF16LiIukNsmSB4jc2fX9SV02alftRyTAeOwZenCAicFuGyF2S46+9iF2B3i9rz3Do4VagkIXcA+0j7WiYY5P0GeZl4/vPgCxVGD+mSXubP8ZUq32MXg780+9NprX0y0ZdpoFF+KlvTXYa7mC6lsb5a8L3WJBMr1w6yDxY4Oszx5RQm/BpTG5t+B0ljKc/w2lg3GaP+ixkDR9iHg9HkwqZllC27N1Nm3PUf9RmqhVTNYlOYV+u8HsRCxxJoh7H1JhfrL6VmeW9qF7mb9WqhF0nkxxe/ef3lsmqM7T3mILN7Axq1VGrEnZlo3thGWXWgbJqz9Rm7iYRzGva8555pGLGw9nkZtB/pkttFngdJA5am1eymFYlTHXh60eGAwsq+alVVcb6+uWgv6dR1JiplOl+QP85FlRz6N1TmVkrzkwnsp5BGbN7S/0HjJF3bfaozvT+tb2JDUWft99709tMd5CdO431udbyU4yCqewchL95C5i1uOZYjg6oz2yfPD0Z1T2pjFkt5wv9Z32OztdnL84XuyxUDYJFLfMAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28122,
+    "magasin": "Cuisines AvivA Sainte-Geneviève-des-Bois",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-sainte-genevieve-des-bois?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABs0lEQVRIibWWMa7DIBBEx6Kg5AbmIpF9LReWsJTC13KUizg3oKSwvH8Wfr7ypVSBUJHnKBvPziwAb1YQEcDsELlJtPyUqtgEeLfeH3wweNgNqGTh9KzxiAkda9wlfoc52XonCyBrE4ZpPJHM+TWmWuk7yIF/+n3ItJeqfUzzwCb89bclK4bbOklGjfNiws9YkNNLunixy6Cb3rVnwLjT2jtSEG70D1SxcN2Kx6kLv2BOrduYTWW7c0uPh6OLdYzLU3sfLYtJohHbM3s9EXFhhrioFWjQGjbNnWSPgxutmHVpy+wx7m6lROpJ9la1qmGYUaIi9J9LuQmtmb3K7tKliyIUzXJwpSo2QX8aOv/4QjoI0ZyVsB+Mz6wzWx6xjgUeV6S9swvov6xLc0atMF165P6uWasaNs2j1lDvDXBsQPZkYxZuHFPqyfzQSKxlp+cIKTnXGr/neUuWo7jmGcvcL0bPxhqWzy3Jko87z9o8YxszPX9hNUvmxmya573pY6Z3kETr2WN41ao5W+hJ/ciZ/exvFdMaSQO/Hjn7rZnec5Z81xsZqOLJClZ6yVVyjt61Z2/WD9xWKaI6ikzWAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28703,
+    "magasin": "Cuisines AvivA Sarreguemines",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-sarreguemines?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrUlEQVRIibWWMY6DMBBFP3Lh0jcIF4ngWhRIIG3BtUBcxHsDly6QZ/+Y3SgrpcKGyrwUE/78P2PgwzOJCOyeILJJsHyLRWwAWresLY9dC7sChWxKLWC+Q0TDGruEe5iTnf9/BmSpwvgxTYgm3cZUq9h7Jwf+6XeRaS/dslOXsWMTXv2tyU7DHSxnaJx3E15jkyR65fmAzF0+uBvY3CHbhL/6YNdGv62AwaT2PI4d9M2hOpvm3gf1ONTj09GEMgbGUWRPTr40nH1CfTaYzTNC6nFhLle4WMamjTbJHm+yX6hLfcboDE+Wm7K/VasiNvacpwecpf9cNN7VZ/b0ZILOEmr1oFZFjKPfzWjFHirOqpmpzQYjnmOPdUed2aLmLGI6s2d63GqhX62qs83n6OT+LlmrIoY8Rj2PHZyI5rw+6z1nrPqbxoGRUMp0zzzZVOZca7x2Tz2Wo5hXIgPFJuhuLGF5b0W2UTgI1TgO1Zl+Rx7V0Wzk5u/edJmddxD1X5d1cTcxlSzfQWL/qlvCKIn6j0Y8HkB9dvpF1y7NObx78hI77zR5nmrO8XD12YfnBwTnM53lkdM5AAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28716,
+    "magasin": "Cuisines AvivA Sens",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-sens?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrUlEQVRIibWWTarDMAyEZbzw0jdILhLia2VRsKGLXCslF3Fv4KUXIXojp3k/8FaxYyg0X6FBo9HIRP8cz8w0EVnmFyeDp1zF8Njb7CL+euzJLESVzO89+U2lTArvWDndw2weiDjgMzdhhL9m0vttTLSal555oz/6XWTSSzuv75QfI3787m9Ldhy9W9Ko5fe5xjzvqGF9swljz3no7B1soSQez55jMosqtVWwTWFmDo9/CmrOzDYSevvxuJi9jvng+PD4E6bJbqf2jMhFsTZLjEAriFbFzFN6KR4PqvhFdGnOONIkkvvi76JfBZvwNfmP/2zW0bZn5nl6ElkCrbqi1XVGD8kS1GI2Fy0vMjOt2eRfkcNwZja/Ux1DHT3RIGYn+O/UpSnzQUVZL4xGM89Fqxo20XhkNnopC1fm/AaG/pYIcfC45lTJHoqt5KnMubxDdk9jVkZxXiT6MPdBy26sYcfeYlgvlFApGduYyf6FV7AO9At5os99fpn93EHG/uzlHYxXGSHcQbIrd71qdvgPRtw6ovZM7jlcJHcStodPr7PSy6zhvyBzTp1tz/45X6qtQRG+qNVDAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28738,
+    "magasin": "Cuisines AvivA Strasbourg",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-strasbourg?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWMY6DMBREB7mg9A3gIhFciyKSkVJwLSIuQm5A6QIxO99ko10pVexYSmS9FI7nz/xv4M0KJDGg2mreqS8yZrEBaH3sVx/RtahnIJOFo0XYIVbpjIXbd5iPF4CjPlMRhno5AHd8jZlW09yy3vFPvw+Z1dJPy2OL104/vupbkp3LHR5Oxvm7PmOBR0suD3LsWsZL48szoFpNMETHdavnKt3jcza4+eXx54XKM53ruVfSXh4P2mQy2w7yeH2TaWIvIxZnuEqrFEfVV1pZQHNYGHvSPK67JL9YfQszuPsqvxyIIfnbtMphA3r6X//56FZfngXauRb5cEBaNaZVBtM9lHPKf1eZkHNz6lKarfKLPJl6Nh9bJgt32gywni3/JV1Ks3CzOzhu1q9knKRfBhvOrfmvgyfP7Jdmis5knpRxpBy3XKYZMLoHLed2BmJxlqI4JU/qD4zOZmMOS3PL+mm996tm7eFRnNn8RWqtMg7HU6sc9nyD+JRzq2X8DrOnh8munp3eerksKi7pjGlvgPLM3jnqseL9au7Z8liq5dlPLedofHn2Zv0AdztuVagCnnoAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Thonon",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-thonon?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVRIibWWTQqDMBCFR7LIMjcwFyl6LRcFBRe5VooX0RtkmYU4fTMWodCVSQVFPyE/Ly9vQvTjGpmZBiLH/OJk8ZWLGD69y/2KpjtPNhIVsvHwNO5NytSgj4XTf5jLDyKecIcqjNA0kzn+xkSrED0kpy/9bjJZSxeWLeVnh5/X+tZk52UOJ3+/XHiPjXx45mVjO3WYzKN19dkAydPpcV6TjY14vISNL0ghHn92nwlVZ+PM6+nxJzwuL2VsEMkHeNzOYpr+oPoMkhP8wiwxAq3I5SKGkWP4aN5OjfpFdKnMBhMJEQLJjfpbtSpgZKLHj40Z/nPZrK4+GzlqVJFlmNPGVrQqYfPhEf2r46nHI+o+qszsTugOC6CetLylQgbbubBrZsN/qkttNohFeDnLIgfVqojBe5BD/NdJoJx7vzKjTgMPrz08bjiVMvKJxH8iEPr41J6aTLdiQAljmNNNRmpjCdO6pdbDA7VW87Qyk3kg/5CxEt7TpdVtJmcQ3sXs3aXVP5h0xzPOILnXs14xw3bRbAp7S1Sf6XnSyPBRIIdLv7vsXEvNU9nn1Lr67Mf1BkSQOnY6En3pAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28714,
+    "magasin": "Cuisines AvivA Tignieu",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-tignieu?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABq0lEQVRIibWWMa6DMBBEB1G49A3gIhFciwIJSym4liMuQm5A6QKxf3bhR4qUKnaozKOwmH27NvDhmUQEbhFx8pDN8S1lsQFo/RxbLrsWLgKZbDpaoD48UHGPRbbfMC/LU1wAZC7C9Gd8qo+fMc0q9avW8C2/L5nW0s/Lc0tjxyK86luSncLt1Zb49U3C79gkB125AS50umh8eYaxw3Y6LuvmYqX/kcGG0dRuRT9eIpZm7h7hw7/jGloeG2r6N9FxuWtz9gfKM4z0O1wTiVlR9iw2TLH1oV+9hMp80axKM21H2VnW2vy+svqaQft82jlH6B+bffXlmbtzX+7JcX1Qztgwqxw2WHuzjM7Cic3lZEmmv3A6OerMlueWye5ay5r+BdA/y6U403115Ik+s2WVw3RmY2AknKfwItb7pdkkK4YbZyx6Os5CZ7JRz5mbDZVW99CzpzCzVgzcLk3xWmQxO7esjOhXnrWHR3Fm2XNUI9UPOlPrgZbF9A5y+te9svoFE70q6OBKvd31cpm2uN71/Lw3QHmm95xwOkk5TyczmNVS/ZPdCtr48uzD8weaZ/uDBwtr1wAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 25546,
+    "magasin": "Cuisines AvivA Toulouse Colomiers",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-toulouse-colomiers?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWQY6DMAxFjVhk6RvARSq4FotKQeqi16LiIvQGWWaB4vk/VJ0ZqasmZGVeJKx8fzsR+bC8mcmEwOxhweErFjF89hrHJ8KhF7eIFDKfevF7YyINcqwWzmEaL31wM85yr8LErc8Q23Qao1b3pdOI4K9+XzLWUu/McR2w+a5vTXasdtOI3X8u/I55S70Z5HDz0Fu8dHoCu9kWJmkCTrAFtzQ8WwETWnsak9o88EBJpTqbvG30OGwCjzMoZDKizy+duNsCXcYkJ7DruB3t2BoKsAjMWcLcLfXB4/fsc8oEXWozvw8S/Ip51WZ/U6sSxhwytYf/NMLs9Rnrq3P2ZBJoxSFQwuSa/ccjjJvawp6pzlqU1OjJK2e2PUMhYx1fMxtB1qU28zssYivmNdcxbEsY7wCEmE/oc0UBci2rM6RcKREaVGCcQoZW0Rn+Zp8zR7576rLciragviw0NkMZy/cWxrXSf7hrk0p1NuVrd8eYah/Q/6VVAeMbhHLkPv+tb3XGp4fwDRLHd94SBr+Y7Xwf7J2ewPjOIaP2eRCWsaOWaMejz6XT+uzD+gFotV7SVlU9IQAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28724,
+    "magasin": "Cuisines AvivA Valence",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-valence?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABr0lEQVRIibWWQcqDMBCFn7hwmRvoRYpeKwshwr/wWooXsTfIMgtx/jexLRS6aqZCQT+hMZNvXgJ8uIKIoNlEGlklNnxKRcwDnZuXjrd9h2YBClk4O6A+HVBxjE3ib5iT7S7NBMhswnQyLtXnz5jWKg07OO5b/b5kupZu3u4xjT0X4bW+luwS7qhi4ts3Cb9jQU66cgPn0etN6+yZH3twHhwzyB6bpVLHC1j4WyU7Dr58iGjN/EhXpqfjWrQyxn/tEOi4/GlzDifsWZB1VzGhMcJaUfYi5vn58MPO2yr7onWxZiOfpxuXNWS/r/p9zzRGnfon9I/Nvjt7BlCTwAhBOMFatS4VMkYIf6wJJyRLm8ewZY0sGnvPzJZ7LGP0Rfct+sf8k6su1szz87OToteca1XEGKN8YEkmhorI1efmDNHfmLHjwPrXEotZR8e5COxzHQPJnOVWzFtiWDS4dG8sYXnfEsaSHMP+EMea+ew49/JUr3Sm1g2tiOkZJNXqX/+q1S+Y6FGBvc/Mzme9UjblPNXzwdEC9kzPOZM6mRvqcrKAXWt5sC8P7XO0zp59uP4BT4IggHNKeCUAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 28749,
+    "magasin": "Cuisines AvivA Vannes",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-vannes?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABp0lEQVRIibWWMa6DMBBEB7lw6RvARSK4VgokkFJwLUe5CLmBSxeI/bPLD1+RfhU7SEj4WcIwO7M28M81iQiuQBC5S/Ic5SLGYRfysPLVfQcfgUI27R2mrUkZDdd4SPoOC/kCyMx7qcLAVwvc/jWmWi2xE677pt+HTGsZlscz5bHn5Fnfmuy43B509s2Fn7FJdv7D4yl+7jvJlzbUZ9exR1KP50nW5GOjHi9h7k4p1OOcPH6oPhs5Pj2uD2XM3+7M+UUfaJo87KjPdN0g9Li2EWpF0YoYv1xEPe7nxvyi9a3M2KYQ5l9PsraqVQnz6j9mhrlkZrJbQ32GUdtUtElQq5ZalTCrJe0dZNYiRM1MfRYhwgLkUXu2PFMZ0/4Hv1nPpv9Ml9psuglzxFZt9V1MqxJ25JyvN+OI/GW/IqPuYp7EQO4kFTJt/bOj/5hzXQO5OrMocutFdlEDpXtjCbN9S9R/27AyPHtAdWZ+sR6rRZgPrUrY6wzit/7U6htMl5MbzyB5sLNeMUN39KZla4H6zM6TTj+fm9r11O9T9jrTyJFztKE+++f6AQy1TfqKnpLfAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28743,
+    "magasin": "Cuisines AvivA Velizy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-velizy?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrElEQVRIibWWQcqEMAyFI1102RvoRUSv5UKo4MJrKV5Eb9BlF9L8L+38wsCsbC3MjH6Cmb68pCH6sSwz00BkmDd2Gnc+i+G2Mb4/8OquIb0SZTIbGrJX5TxViLGze4cZ3xLxhM9ShBFezaTCa0y0WtaGEfdLv4dMcmmW/XR+7PDwzm9JlpYKRp5+ufAZsxywh/1kPXUN+7Y2b7DtcOJxb/lweq3i3p4zjVKhIXn8s6HibJDL2+Nykct6xIDH9QzT+D5Qeaan6iALj0sbgVYQLYulGNTAK1X0i6HybBSt9uRJ5DZqlcUqNpM6UZeoGa8OU57RKIWzinECQasaWuWwAXJIzzZ+xBevddSqLNPzdvDUSvlIz+bT5THJJawdezb8l7QqzewWPen0jPwuSaschp7tLMpFX50cuKnOCzOFfhVbyAizk2KXyaALbAf/oc4lBvniLJai/IARzC5nYw6L59a//3DWBkPFmWiP/oceqzbU5kerDCYzyAL/IZe3Vm8whid5xgzi+zjrZbM4g8h8cNVE5ZnMObzL38cBOdz6PWUxlzIfpDqn2pRnP9Yf0JY5LA6merkAAAAASUVORK5CYII="
+    }
+  },
+  {
+    "id": 29436,
+    "magasin": "Cuisines AvivA Vichy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-vichy?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsUlEQVRIibWWMa6DMAyGf5QhY24AF0FwLQakIHXgWiAuAjdgzIDw+x0elSp1IilT+nWwYn92DHz5vIjALiJWZtktf4Uk1gGVG6eKx6aCnYBE5s8KMKcDCsZYZP8Nc7JsYgdAxixML+OCOX/GNFehXcG4H/l7yLSWbly2PfQNi/Cub052CXcUe+C/HxI+Y15OulIz70Ojh9LlZx2Kdb8cFx6mIjr+nMHQ7+h43+BfxNzMDsXqhttxTVoa68ws8Or4SwO1J/IzfzS4HGd9mSsekhi/igWl40cRfXHIzjj2VqCmkyb6HfOXwPxrFjfUWgT2TDCry8863oF9qU6eYK5KF5IY/CzCMSLo29XJpD2Tm9HCdY9q9zqzZdvTGHpU7MvtCnTlJTfzL7pCJ2FfrO8Yc5XCOj9VbmBKtM+dyBlrmZlFzWsdUy0dN7InMq9vwMF5KgzGGPE9z8tiKw4Mx1lyHdJYfLcCy2iZHL61p0N2pu8v9yYejcpu7r3pMbt3EH233vX9AeOKg7iDhPYdN4WNnCcxxniUQH6me47ozgAuO93t6WMWaykH4t7EO5QuP/vy/QFDCiJco9GVbgAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28736,
+    "magasin": "Cuisines AvivA Villefranche",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-villefranche?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABrklEQVRIibWWQc6DIBSEn3HBkhvoRRq9FgsTTbrwWppehN6AJQvD+2ewbdLkXxV00dqPpMC8eQMi/zyzqoqTJqjuGgx+xSLmRHobR2+jDL2YTaSQzamX+eBrgzkeGq5hNt46MYuIrlWY5L9u02WMWq1bo7rIl34/MtbSro9niNOAwU99a7LzacEw+uXC39isqVd9JKvL0CuKYK9guw+nx9UHA9FiEXNYfnD0+DRwQwlz1GbmaLzVt8fnowllzM27wuPw932DLmOS+uzVPkkYI9BKEAIlDC3e097KfdAsrGV1NggiJFl6kgOhjDnEHthTDfxnY+ttfWbuSdD7EEwTFrB11K+ACWqpzGwRfOjGnqnNzH0TXW7QfWJm6zOUMeZfcLdsOhT0pVVl1u7eLq3mvNI1a1XI0DPZf4NYFOCcoy7jK88YaA+PYwGlDOeM0n/oc87xPnsqstyK/Ioz+j6LVsTOc0u9NcvoGSpWqjPuQxitkWY/5y1ivIMws3Ofs5YXsfV9B4ljvuuVMvpPD94Pji6fC5VZvk/ySJxGD8d/PPkjy7WMLfM0N05n67N/nj8PCkxk1VCfiAAAAABJRU5ErkJggg=="
+    }
+  },
+  {
+    "id": 28684,
+    "magasin": "Cuisines AvivA Villeneuve d'Ascq",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-villeneuve-dascq?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABs0lEQVRIibWWQYqEMBBFv2SRZW6gFxG9lgtBYRZey8aL2DfIMgtJza9keqChV50Y6EafYJlfv6oCfFiLiGBC40Ue4i3vQhGbgM6F8XQBQwe7A4VsiR2Wq/FAwxiH+HuYC33r7ArIVoUhvdrE25hqte2dyIo3/b5kmku3HU8f5oEP//Nbk+Vlnl6fvrnwO7ZI5B4OvnsdOtEk1Gd2TX5Uj8vp7d5wHyUsCRNG/uZBNxQd7mCnk6uR5PFs9hK2UA4/9Z3YH5omjBH1GS/5d9DfXNQKFK6E8cuTvdM+1Cya38pM8+sn85SQkgDVqoRh2Vkq9J+lQC6Y09VnjHbKtqsnI6hV60IRU+jVMwE0u+ztnydrson3sBfTOmvPFjaBImYvlvd2tUwCE5p1qc2mWU3NVp0KdEtaFTGj/Tq1kAGOCdAYtdms/Uo9iZEeN+ILWZ5b0WmdawyE6iyVYu6xrPvV6GwsYXlu0X9aoJy1MddMVabzF1PPsbs82FTMa55/zfIZhGnUOlddcA/j5zMu+ywHjq/ARNs/9Hxw5TqvzPScI5Rcewkdn+IWsNeZJg+CgNbVZx/WL6o3dqTR2jQOAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Voiron",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-voiron?wop=0",
+    "assets": {
+      "banner_html": null,
+      "qrcode_html": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsUlEQVRIibWWQQqEMAxFIy5c9gb2IoNey4VQYRZeS/EieoMuu5BmfuIgDMxqmimMjE8w9ucnKdGXFZiZBiLHvHJscJeKGG69S/2OV3eemoWokIXsKZxVTFQhxsbxP8ylBxFP+M0mjPBqpjr/jYlW8+IZcT/0+5FJLt28HTGNHR7e+bVk16qzk6cfLvyNBc7Yw3ZwM3We06N19qzhTG+P8x6bpcI+ytiKmoHHEeO9IXNGYd3j7XH5U8hGlQPBnjBN6jPZs4GwhwCPSxuBVuRSEaOweHy6Zxor9YvqYsvCMyOUSF6rv0WrEjbA2m6qD9QlaibVu7NnzaRiq1UIWrXQqoRhH5LC3fEpl6W9dDFlSOsOv6B8RunZfMRCdiKF4dSejWCXLsYsMOoIudWxyPOlVQEb4D+0ai+9SRpK1vwas7GHVtpCengcH1DIYG3MLfgPdS4xZPYYMy1FxghjXGB2mY0lTOeW+m/ChuYtOzJnMn9peKDHhhW1eWlVwuQMMkk/Pbtbq38wOXowGhcKVM96pUzKRXvTfLZE9kzPOZt8PgbEcOv3K9NcyvngqnNqnT37sl41NFAsp623ZQAAAABJRU5ErkJggg=="
+    }
+  }
+]

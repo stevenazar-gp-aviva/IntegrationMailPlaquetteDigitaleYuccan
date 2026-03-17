@@ -1,0 +1,772 @@
+[
+  {
+    "id": 29452,
+    "magasin": "Cuisines AvivA Agen",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-agen?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Albertville",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-albertville?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28680,
+    "magasin": "Cuisines AvivA Albi",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-albi?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28739,
+    "magasin": "Cuisines AvivA Ambérieu-en-Bugey",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-amberieu-en-bugey?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28732,
+    "magasin": "Cuisines Aviva Angers",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-angers?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28753,
+    "magasin": "Cuisines AvivA Annecy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-annecy?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28724,
+    "magasin": "Cuisines AvivA Annemasse",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-annemasse?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 26683,
+    "magasin": "Cuisines AvivA Aubagne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-aubagne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28731,
+    "magasin": "Cuisines AvivA Aubenas",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-aubenas?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28730,
+    "magasin": "Cuisines AvivA Audincourt",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-audincourt?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28730,
+    "magasin": "Cuisines AvivA Avignon",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-avignon?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28709,
+    "magasin": "Cuisines AvivA BASSE GOULAINE",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-basse-goulaine?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28764,
+    "magasin": "Cuisines AvivA Bastia",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bastia?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28714,
+    "magasin": "Cuisines AvivA Bayeux",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bayeux?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28691,
+    "magasin": "Cuisines AvivA Bayonne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bayonne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28746,
+    "magasin": "Cuisines AvivA Belfort",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-belfort?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29437,
+    "magasin": "Cuisines AvivA Bordeaux Mérignac",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bordeaux-merignac?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28876,
+    "magasin": "Cuisines AvivA Bordeaux Sainte Eulalie",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bordeaux-sainte-eulalie?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29427,
+    "magasin": "Cuisines AvivA Bourg-en-Bresse",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bourg-en-bresse?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28752,
+    "magasin": "Cuisines AvivA Bourges",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bourges?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28723,
+    "magasin": "Cuisines AvivA Bourgoin-Jallieu",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bourgoin-jallieu?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28727,
+    "magasin": "Cuisines AvivA Brest",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-brest?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28733,
+    "magasin": "Cuisines AvivA Brie Comte Robert",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-brie-comte-robert?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28768,
+    "magasin": "Cuisines AvivA Brignais",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-brignais?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28687,
+    "magasin": "Cuisines AvivA Bry-sur-Marne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-bry-sur-marne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 33192,
+    "magasin": "Cuisines AvivA Caen",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-caen?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 25567,
+    "magasin": "Cuisines AvivA Cagnes-sur-Mer",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-cagnes-sur-mer?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28757,
+    "magasin": "Cuisines AvivA Caluire-et-Cuire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-caluire-et-cuire?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Castres",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-castres?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28745,
+    "magasin": "Cuisines AvivA Chambéry",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chambery?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28706,
+    "magasin": "Cuisines AvivA Chambray Les Tours",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chambray-les-tours?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28863,
+    "magasin": "Cuisines AvivA Champagne au Mont d'Or",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-champagne-au-mont-dor?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28862,
+    "magasin": "Cuisines AvivA Chartres Barjouville",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chartres-barjouville?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 14575,
+    "magasin": "Cuisines AvivA Chateau-Gontier",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-chateau-gontier?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29404,
+    "magasin": "Cuisines AvivA Clermont-Ferrand",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-clermont-ferrand?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Clichy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-clichy?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28753,
+    "magasin": "Cuisines AvivA Colmar",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-colmar?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 25588,
+    "magasin": "Cuisines AvivA Compiègne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-compiegne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28711,
+    "magasin": "Cuisines AvivA Craponne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-craponne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28718,
+    "magasin": "Cuisines AvivA Creil",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-creil?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28743,
+    "magasin": "Cuisines AvivA Epinal",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-epinal?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Forbach",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-forbach?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29765,
+    "magasin": "Cuisines Aviva France",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/ava?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29685,
+    "magasin": "Cuisines AvivA Fréjus",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-frejus?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28663,
+    "magasin": "Cuisines AvivA Fresnes",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-fresnes?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28669,
+    "magasin": "Cuisines AvivA Gap",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-gap?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28890,
+    "magasin": "Cuisines AvivA Grenoble Saint-Egrève",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-grenoble-saint-egreve?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28700,
+    "magasin": "Cuisines AvivA Guérande",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-guerande?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28691,
+    "magasin": "Cuisines AvivA La Martinique",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-la-martinique?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA La Seyne-sur-Mer",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-la-seyne-sur-mer?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28759,
+    "magasin": "Cuisines AvivA Lattes",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lattes?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28718,
+    "magasin": "Cuisines AvivA Laval",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-laval?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28709,
+    "magasin": "Cuisines AvivA Le Pian Médoc",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-le-pian-medoc?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Le Puy-en-Velay",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-le-puy-en-velay?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Libourne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-libourne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Limoges",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-limoges?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28688,
+    "magasin": "Cuisines AvivA Lons-le-Saunier",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lons-le-saunier?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28757,
+    "magasin": "Cuisines AvivA Lorient",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lorient?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28697,
+    "magasin": "Cuisines AvivA Lozanne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lozanne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28735,
+    "magasin": "Cuisines AvivA Lunel",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lunel?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28741,
+    "magasin": "Cuisines AvivA Lyon centre-ville",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-lyon-centre-ville?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29591,
+    "magasin": "Cuisines AvivA Manosque",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-manosque?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28942,
+    "magasin": "Cuisines AvivA Marquette Lez Lille",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-marquette-lez-lille?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28706,
+    "magasin": "Cuisines AvivA Mayenne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-mayenne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28728,
+    "magasin": "Cuisines AvivA Melun",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-melun?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Metz",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-metz?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28738,
+    "magasin": "Cuisines AvivA Montelimar",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-montelimar?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28874,
+    "magasin": "Cuisines AvivA Montigny-lès-Cormeilles",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-montigny-les-cormeilles?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28744,
+    "magasin": "Cuisines AvivA Mulhouse",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-mulhouse?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28726,
+    "magasin": "Cuisines AvivA Narbonne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-narbonne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28718,
+    "magasin": "Cuisines AvivA Orange",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-orange?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28724,
+    "magasin": "Cuisines AvivA Orgeval",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-orgeval?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28698,
+    "magasin": "Cuisines AvivA Orléans Saran",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-orleans-saran?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29650,
+    "magasin": "Cuisines AvivA Oyonnax",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-oyonnax?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28727,
+    "magasin": "Cuisines AvivA Paris 13",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-paris-13?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29372,
+    "magasin": "Cuisines AvivA Pau",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-pau?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28698,
+    "magasin": "Cuisines AvivA Perpignan",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-perpignan?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Poitiers",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-poitiers?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28759,
+    "magasin": "Cuisines AvivA PONTARLIER",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-pontarlier?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28882,
+    "magasin": "Cuisines AvivA Rennes Saint-Gregoire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rennes-saint-gregoire?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Roanne",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-roanne?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28722,
+    "magasin": "Cuisines AvivA Rodez",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rodez?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28732,
+    "magasin": "Cuisines AvivA Rosny / Domus",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rosny-domus?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Rouen",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rouen?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28736,
+    "magasin": "Cuisines AvivA ROUTE DE VANNES",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-route-de-vannes?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28669,
+    "magasin": "Cuisines AvivA Rueil-Malmaison",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-rueil-malmaison?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28887,
+    "magasin": "Cuisines AvivA Saint-Bonnet-de-Mure",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-bonnet-de-mure?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28708,
+    "magasin": "Cuisines AvivA Saint-Brieuc",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-brieuc?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29780,
+    "magasin": "Cuisines AvivA Saint-Cyr-sur-Loire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-cyr-sur-loire?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28857,
+    "magasin": "Cuisines AvivA Saint-Etienne Andrézieux",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-etienne-andrezieux?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28901,
+    "magasin": "Cuisines AvivA Saint-Etienne Firminy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-etienne-firminy?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28882,
+    "magasin": "Cuisines AvivA Saint-Genis-Pouilly",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-genis-pouilly?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28894,
+    "magasin": "Cuisines AvivA Saint-Jean-de-Védas",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-jean-de-vedas?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Saint-Malo",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-malo?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28919,
+    "magasin": "Cuisines AvivA Saint-Martin-d'Hères",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-martin-dheres?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28740,
+    "magasin": "Cuisines AvivA Saint-Nazaire",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-saint-nazaire?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28122,
+    "magasin": "Cuisines AvivA Sainte-Geneviève-des-Bois",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-sainte-genevieve-des-bois?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28703,
+    "magasin": "Cuisines AvivA Sarreguemines",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-sarreguemines?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28716,
+    "magasin": "Cuisines AvivA Sens",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-sens?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28738,
+    "magasin": "Cuisines AvivA Strasbourg",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-strasbourg?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28725,
+    "magasin": "Cuisines AvivA Thonon",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-thonon?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28714,
+    "magasin": "Cuisines AvivA Tignieu",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-tignieu?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 25546,
+    "magasin": "Cuisines AvivA Toulouse Colomiers",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-toulouse-colomiers?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28724,
+    "magasin": "Cuisines AvivA Valence",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-valence?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28749,
+    "magasin": "Cuisines AvivA Vannes",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-vannes?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28743,
+    "magasin": "Cuisines AvivA Velizy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-velizy?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 29436,
+    "magasin": "Cuisines AvivA Vichy",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-vichy?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28736,
+    "magasin": "Cuisines AvivA Villefranche",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-villefranche?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28684,
+    "magasin": "Cuisines AvivA Villeneuve d'Ascq",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-villeneuve-dascq?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  },
+  {
+    "id": 28734,
+    "magasin": "Cuisines AvivA Voiron",
+    "plaquette_digitale": "https://www.yuccanlead.com/w/cuisines-aviva-voiron?wop=0",
+    "banner_base64": null,
+    "qrcode_base64": null
+  }
+]
